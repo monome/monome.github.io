@@ -1,33 +1,3 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>monome</title>
-    <meta name="keywords" content="monome, grid, norns, crow, teletype, ansible">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> -->
-<style>
-    @font-face {
-      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
-      src: local(''),
-        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
-        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
-    body {background-color:#222; max-width:800px; color:#fff; 
-      font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
-    code {font-size: 1.6em; color:#999;}
-    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
-    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
-    a {color:#aaa;}
-    a:hover {color:#ccc;}
-    img {margin-top: 4em; max-width:100%;}
-    input {font-family: inherit;}
-</style>
-</head>
-<body>
-    <div style="margin:20px">
-<br/>
-<br/>
 <p>sound machines for<br/>
     the exploration of time<br/>
     and space</p>
@@ -43,7 +13,7 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; sold out. shipping in january 2023 for recent pre-orders. we'll post updates as we go. restock date expected for early 2023.</p>
+<p>$700 &mdash; sold out. restock date expected for early 2023</p>
 
 <!--G RID-->
 
@@ -55,7 +25,7 @@
   <li><a href="https://vimeo.com/267112253">video</a></li>
   <li><a href="https://monome.org/docs/norns">documentation</a></li>
 </ul>
-<p>$900 &mdash; sold out. shipping begins late november for recent pre-orders. we'll post updates as we go. unknown restock date for next edition.</p>
+<p>$900 &mdash; sold out. unknown restock date</p>
 
 <!--N ORNS-->
 
@@ -95,8 +65,11 @@
 <hr/>
 <p>contact help@monome.org with questions.</p>
 <p><a href="https://llllllll.co">llllllll.co</a> is for community discussion.</p>
-<p>shipping happens on tuesdays. a tracking number is sent when each order ships.</p>
+
+shipping happens on tuesdays. a tracking number is sent when each order ships. see [shipping updates](/shipping.html) for current status on any waiting preorders.
+
 <p>we're committed to keeping these machines working. email us for repairs. also see purchase <a href="policy.html">policy</a>.</p>
+
 <p>in the <a href="past.html">past</a> we created some other objects.</p>
 <p>events and release announcements and stock updates:</p>
 <form action="https://tinyletter.com/monome" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/monome', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width:240px" name="email" id="tlemail" placeholder="email"/> <input type="hidden" value="1" name="embed"/><input type="submit" value="subscribe" style="width:100px"/></p></form>
@@ -110,16 +83,3 @@
 <p>monome is operated on a human scale. we use local suppliers and manufacturers, assemble and test in house, and only sell direct. like our designs, our organization is focussed on adaptability and the long-term. staying small affords us the flexibility to pursue interesting new directions, not simply commodify established trends.</p>
 <p>monome is supported by a global community of curious, helpful, and creative people. <a href="https://dndrks.bandcamp.com">dan derks</a> is on the team. all based at <a href="https://luckdragon.space">luck dragon</a>.</p>
 <p>we began in 2005. we continue.</p>
-
-<hr/>
-<p>monome &mdash; updated DATE</p>
-
-<!--todo
-past
-new norns photo
-img/vid links?
--->
-
-</div>
-</body>
-</html>
