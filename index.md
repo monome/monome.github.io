@@ -6,6 +6,15 @@
 <br/>
 <br/>
 
+---
+
+<br/>
+<br/>
+
+[shipping updates](shipping.html) now have a dedicated page.
+
+---
+
 <p><img src="image/grid.jpg" alt="monome grid" /></p>
 <p>an open, tactile instrument that allows the user to imagine and define its function.</p>
 <p>the monome <i>grid</i> by default does nothing. connected to a computer or module, interaction is determined by the chosen application: sequencer, sample cutter, tone map, polyrhythm machine. we’ve put together studies to help you create your own.</p>
