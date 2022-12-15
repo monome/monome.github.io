@@ -8,7 +8,7 @@ Returns
 
 1. Within 7 days of delivery, email help@monome.org to arrange a return. If you’re in the US, we’ll email you a USPS return label. if you’re outside of the US, we’ll ask you to arrange return delivery using your preferred international shipping provider.
 2. Re-pack item(s) in their original packaging, as you received them. if any item had its own box, please repack it in a larger package – do not repurpose the item’s box as a sole shipping package.
-3. Once we receive the return, any item(s) in new/unused condition will receive a full refund (minus any shipping costs which were paid by monome and a 2.6% + $0.30 [US] or 3.6% + $0.30 [int'l] processing fee). Any used item(s) will be subject to a restocking fee as outlined below (minus any shipping costs which were paid by monome).
+3. Once we receive the return, any item(s) in new/unused condition will receive a full refund (excluding any shipping costs and minus a 2.6% + $0.30 [US] or 3.6% + $0.30 [int'l] processing fee). Any used item(s) will be subject to a restocking fee as outlined below (excluding any shipping costs).
 
 ---
 
