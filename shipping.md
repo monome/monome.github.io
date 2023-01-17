@@ -2,4 +2,4 @@ shipping updates
 
 norns - all single orders have shipped. combo orders follow grid timeline below.
 
-grid - scheduled to begin shipping in late january. we'll keep this updated with a more specific date when we have it. we have confirmation that the last components have shipped and should be arriving shortly.
+grid - single orders began shipping january 17 (up to order #9109). we will ship combo orders as soon as norns boards arrive in our workshop for final QA + assembly.
