@@ -10,7 +10,7 @@ for file in $list ; do
   cat head.htm_ > ${target}
   cmark --unsafe ${file}.md >> ${target}
   cat foot.htm_ >> ${target}
-  sed -i 's|DATE|'$date'|g' ${target}
+  sed -i.raw 's|DATE|'$date'|g' ${target}
 done
 
-sed -i -e '/GRID/r grid.htm_' -e '/NORNS/r norns.htm_' -e 'x;$G' index.html
+sed -i.raw -e '/GRID/r grid.htm_' -e '/NORNS/r norns.htm_' -e 'x;$G' index.html
