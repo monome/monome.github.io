@@ -46,7 +46,7 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$200 &mdash; sold out, unknown restock date</p>
+<p>$280 &mdash; sold out, restock early 2023</p>
 
 
 <p><img src="image/tt.jpg" alt="monome teletype" /></p>
