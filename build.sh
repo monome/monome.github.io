@@ -29,9 +29,9 @@ for file in $list ; do
   echo "<br/><br/>" >> old.html
   # rss
   echo "<item>" >> rss.xml
-  #echo "<title>${folder} / ${name}</title>" >> rss.xml
-  #echo "<link>https://nnnnnnnn.co/${folder}/${name}.html</link>" >> rss.xml
-  #echo "<guid>https://nnnnnnnn.co/${folder}/${name}.html</guid>" >> rss.xml
+  echo "<title>monome</title>" >> rss.xml
+  echo "<link>https://nnnnnnnn.co/old.html</link>" >> rss.xml
+  echo "<guid>$file</guid>" >> rss.xml
   echo "<description><![CDATA[" >> rss.xml
   cmark ${file} >> rss.xml
   echo "]]></description>" >> rss.xml
