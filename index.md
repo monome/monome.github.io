@@ -4,14 +4,13 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 ---
 
-<br/>
-<br/>
 
-[shipping updates](shipping.html) now have a dedicated page.
+<!--NEWS-->
+
+[old news](/old.html) / [rss](rss.xml)
 
 ---
 
