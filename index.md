@@ -21,7 +21,7 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; sold out. restock date expected for early 2023</p>
+<p>$700 &mdash; sold out. small batch available 02/17 at 1pm EST.</p>
 
 <!--G RID-->
 
@@ -33,7 +33,7 @@
   <li><a href="https://vimeo.com/267112253">video</a></li>
   <li><a href="https://monome.org/docs/norns">documentation</a></li>
 </ul>
-<p>$900 &mdash; sold out. unknown restock date</p>
+<p>$900 &mdash; sold out. small batch available 03/10 at 1pm EST.</p>
 
 <!--N ORNS-->
 
@@ -45,7 +45,7 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$280 &mdash; sold out, restock early 2023</p>
+<p>$280 &mdash; sold out. available 03/10 at 1pm EST.</p>
 
 
 <p><img src="image/tt.jpg" alt="monome teletype" /></p>
