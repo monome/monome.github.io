@@ -14,10 +14,10 @@ Returns
 
 Restocking
 
-- unopened/unused: item is returned exactly as received. no fee.
-- used, like-new: item is returned with all original packaging and accessories, item has no visible wear. 10%
-- used: item is returned without original packaging or accessories, item has visible wear, 20+% determined after appraisal
-- defective: item is not working on arrival. no fee.
+- Unopened/unused: item is returned exactly as received. No fee.
+- Used, like-new: item is returned with all original packaging and accessories, item has no visible wear. 10% fee.
+- Used: item is returned without original packaging or accessories, item has visible wear, 20+% determined after appraisal fee.
+- Defective: item is not working on arrival. No fee.
 
 ---
 
