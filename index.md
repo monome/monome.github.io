@@ -24,7 +24,7 @@
 <p>$700 &mdash; b-stock available 02/18 1pm EST for $650. will ship within two weeks.</p>
 <p>b-stock is functionally perfect but may have some minor aesthetic defects.</p>
 
-<!--G RID-->
+<!--GRID-->
 
 
 <p><img src="image/norns-black.jpg" alt="monome norns" /></p>
