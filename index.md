@@ -34,7 +34,7 @@
   <li><a href="https://vimeo.com/267112253">video</a></li>
   <li><a href="https://monome.org/docs/norns">documentation</a></li>
 </ul>
-<p>$900 &mdash; sold out. small batch available 03/10 at 1pm EST.</p>
+<p>$900 &mdash; sold out. small batch of b-stock available 03/10 at 1pm EST.</p>
 
 <!--N ORNS-->
 
