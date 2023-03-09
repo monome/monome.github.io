@@ -21,10 +21,9 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$650 &mdash; b-stock available 02/18 1pm EST (normally $700). will ship within two weeks.</p>
-<p>b-stock is functionally perfect but metal enclosure may have some minor aesthetic defects.</p>
+<p>$700 &mdash; new edition coming this spring.</p>
 
-<!--GRID-->
+<!--G RID-->
 
 
 <p><img src="image/norns-black.jpg" alt="monome norns" /></p>
