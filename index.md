@@ -35,7 +35,7 @@
 </ul>
 <p>$900 &mdash; sold out. small batch of b-stock ($850, 32gb) available 03/10 at 1pm EST.</p>
 
-<!--N ORNS-->
+<!--NORNS-->
 
 
 <p><img src="image/crow.jpg" alt="monome crow" /></p>
@@ -46,6 +46,8 @@
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
 <p>$280 &mdash; sold out. available 03/10 at 1pm EST.</p>
+
+<!--CROW-->
 
 
 <p><img src="image/tt.jpg" alt="monome teletype" /></p>

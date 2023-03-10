@@ -1,4 +1,4 @@
-<div id='product-component-1657674624219'></div>
+<div id='product-component-1678469639273'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -26,8 +26,8 @@
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '749272432745',
-        node: document.getElementById('product-component-1657674624219'),
+        id: '4794768785513',
+        node: document.getElementById('product-component-1678469639273'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
