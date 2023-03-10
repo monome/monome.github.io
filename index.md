@@ -45,9 +45,9 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$280 &mdash; available now.</p>
+<p>$280 &mdash; sold out. new edition coming this spring.</p>
 
-<!--CROW-->
+<!--C ROW-->
 
 
 <p><img src="image/tt.jpg" alt="monome teletype" /></p>
