@@ -21,7 +21,7 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; new edition coming this spring.</p>
+<p>$700 &mdash; sold out. new edition coming this spring.</p>
 
 <!--G RID-->
 
@@ -33,9 +33,9 @@
   <li><a href="https://vimeo.com/267112253">video</a></li>
   <li><a href="https://monome.org/docs/norns">documentation</a></li>
 </ul>
-<p>$900 &mdash; sold out. small batch of b-stock ($850, 32gb) available 03/10 at 1pm EST.</p>
+<p>$900 &mdash; sold out. the 3/10 batch is gone. next release not yet known.</p>
 
-<!--NORNS-->
+<!--N ORNS-->
 
 
 <p><img src="image/crow.jpg" alt="monome crow" /></p>
@@ -45,7 +45,7 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$280 &mdash; sold out. available 03/10 at 1pm EST.</p>
+<p>$280 &mdash; available now.</p>
 
 <!--CROW-->
 
