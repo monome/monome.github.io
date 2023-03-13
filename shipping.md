@@ -1,5 +1,5 @@
 shipping updates
 
-recent grid orders will start shipping right away, the last orders going out by March 4 at the latest.you'll receive a tracking number when your order ships.
+recent crow + b-stock norns orders will start shipping March 15, as snow will likely waylay our typical Tuesday shipments. you'll receive tracking as soon as your order heads out.
 
-contact us if something is wrong. help@monome.org
+please contact us for any additional questions: help@monome.org
