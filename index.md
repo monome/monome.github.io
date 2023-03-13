@@ -21,7 +21,7 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; sold out. new run coming this spring.</p>
+<p>$700 &mdash; sold out. new edition coming this spring.</p>
 
 <!--G RID-->
 
@@ -45,7 +45,7 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$280 &mdash; sold out. new run coming this spring.</p>
+<p>$280 &mdash; sold out. new edition coming this spring.</p>
 
 <!--C ROW-->
 
