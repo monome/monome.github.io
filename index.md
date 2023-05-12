@@ -21,7 +21,7 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; sold out. new batch coming late may.</p>
+<p>$700 &mdash; sold out. small batch coming mid may.</p>
 
 <!--G RID-->
 
@@ -33,7 +33,7 @@
   <li><a href="https://vimeo.com/267112253">video</a></li>
   <li><a href="https://monome.org/docs/norns">documentation</a></li>
 </ul>
-<p>$900 &mdash; sold out. next release not yet known.</p>
+<p>$900 &mdash; sold out. small batch coming mid june.</p>
 
 <!--N ORNS-->
 
@@ -45,7 +45,7 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$280 &mdash; sold out. new batch coming early june.</p>
+<p>$280 &mdash; sold out. new batch coming late june.</p>
 
 <!--C ROW-->
 
