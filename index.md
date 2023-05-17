@@ -21,7 +21,7 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; sold out. small batch coming mid may.</p>
+<p>$700 &mdash; sold out. small batch available may 19 1pm EST.</p>
 
 <!--G RID-->
 
