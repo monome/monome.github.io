@@ -21,9 +21,9 @@
   <li><a href="https://vimeo.com/266741634">video</a></li>
   <li><a href="https://monome.org/docs/grid">documentation</a></li>
 </ul>
-<p>$700 &mdash; small batch available may 19 1pm EST.</p>
+<p>$700 &mdash; sold out. may 19 batch is gone. new batch in july.</p>
 
-<!--GRID-->
+<!--G RID-->
 
 
 <p><img src="image/norns-black.jpg" alt="monome norns" /></p>
