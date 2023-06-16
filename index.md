@@ -35,7 +35,7 @@
 </ul>
 <p>$900 &mdash; sold out. small batch available june 16 1pm EST.</p>
 
-<!--N ORNS-->
+<!--NORNS-->
 
 
 <p><img src="image/crow.jpg" alt="monome crow" /></p>
