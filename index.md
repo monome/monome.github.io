@@ -33,9 +33,9 @@
   <li><a href="https://vimeo.com/267112253">video</a></li>
   <li><a href="https://monome.org/docs/norns">documentation</a></li>
 </ul>
-<p>$900 &mdash; sold out. small batch available june 16 1pm EST.</p>
+<p>$900 &mdash; june 16 batch is sold out. next release not yet scheduled.</p>
 
-<!--NORNS-->
+<!--N ORNS-->
 
 
 <p><img src="image/crow.jpg" alt="monome crow" /></p>
