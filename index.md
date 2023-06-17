@@ -45,7 +45,7 @@
   <li><a href="https://vimeo.com/362620801">video</a></li>
   <li><a href="https://monome.org/docs/crow">documentation</a></li>
 </ul>
-<p>$280 &mdash; sold out. new batch coming late june.</p>
+<p>$280 &mdash; sold out. new batch coming early july.</p>
 
 <!--C ROW-->
 
