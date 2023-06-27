@@ -1,6 +1,6 @@
 #!/bin/bash
 
-list=$(ls -r ./*.md)
+list=$(ls ./*.md; ls ./past/*.md)
 for file in $list ; do
   date=$(date -r ${file} +%D)
   file=${file:2}
@@ -50,3 +50,4 @@ sed -i.raw -e '/GRID/r grid.htm_' -e '/NORNS/r norns.htm_' -e '/CROW/r crow.htm_
 
 # cleanup
 rm *.raw
+rm past/*.raw
