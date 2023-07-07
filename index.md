@@ -57,9 +57,9 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 - [video](https://vimeo.com/362620801)
 - [documentation](https://monome.org/docs/crow)
 
-$280 &mdash; available july 7 1pm EDT
+$280 &mdash; july 7 batch sold out. next batch coming in september.
 
-<!--CROW-->
+<!--C ROW-->
 
 ---
 
