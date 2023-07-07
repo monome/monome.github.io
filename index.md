@@ -59,7 +59,7 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 
 $280 &mdash; available july 7 1pm EDT
 
-<!--C ROW-->
+<!--CROW-->
 
 ---
 
