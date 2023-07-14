@@ -24,7 +24,7 @@ the monome _grid_ by default does nothing. connected to a computer or module, in
 
 zero  
 sixteen by sixteen keys with decoupled warm white light  
-usb C, 10.4" x 10.4" x 0.5", 2.8 lbs 
+usb C, 10.4" x 10.4" x 0.5", 2.8 lbs  
 $1500 &mdash; available july 14 1pm EDT
 
 <!--ZERO-->
