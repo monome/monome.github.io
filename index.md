@@ -27,12 +27,20 @@ sixteen by sixteen keys with decoupled warm white light
 usb C, 10.4" x 10.4" x 0.5", 2.8 lbs 
 $1500 &mdash; available july 14 1pm EDT
 
+<!--ZERO-->
+
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.4" x 5.4" x 0.5", 1.6 lbs  
 $700 &mdash; available july 14 1pm EDT
 
-<!--G RID-->
+<!--ONE-->
+
+one (b-stock)  
+100% new and functional, very minor aesthetic imperfections from the machine shop  
+$650 &mdash; available july 14 1pm EDT
+
+<!--BSTOCK-->
 
 
 ![](/image/norns-black.jpg)
