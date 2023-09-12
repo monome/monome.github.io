@@ -82,7 +82,7 @@ we're committed to keeping these machines working. email us for repairs. also se
 
 in the [past](/past.html) we created some other objects.
 
-events and release announcements and stock updates:
+events and release announcements and stock updates: subscribe via our [email newsletter](https://buttondown.email/monome) or use [rss](/rss.xml)
 
 <form action="https://tinyletter.com/monome" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/monome', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width:240px" name="email" id="tlemail" placeholder="email"/> <input type="hidden" value="1" name="embed"/><input type="submit" value="subscribe" style="width:100px"/></p></form>
 
