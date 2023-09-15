@@ -27,14 +27,14 @@ sixteen by sixteen keys with decoupled warm white light
 usb C, 10.4" x 10.4" x 0.5", 2.8 lbs  
 $1500 &mdash; available september 15, 1pm EDT.
 
-<!--Z ERO-->
+<!--ZERO-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.4" x 5.4" x 0.5", 1.6 lbs  
 $700 &mdash; available september 15, 1pm EDT.
 
-<!--O NE-->
+<!--ONE-->
 
 <!--
 one (b-stock)  
@@ -42,6 +42,22 @@ one (b-stock)
 $650 &mdash; available july 14 1pm EDT
 
 <!--B STOCK-->
+
+
+
+![](/image/crow.jpg)
+
+speaks and listens and remembers bits of text. a scriptable usb-cv-ii machine.
+
+_crow_ connects to norns and computers running max, max for live, and other serial-enabled applications. we've created various norns scripts and max for live devices which require no programming, and we've also created tutorials and studies to get you started quickly programming your own ideas into this tiny, powerful module.
+
+- [video](https://vimeo.com/362620801)
+- [documentation](https://monome.org/docs/crow)
+
+$280 &mdash; available september 15, 1pm EDT.
+
+<!--CROW-->
+
 
 
 ![](/image/norns-black.jpg)
@@ -57,18 +73,6 @@ $900 &mdash; next release not yet scheduled.
 <!--N ORNS-->
 
 
-![](/image/crow.jpg)
-
-speaks and listens and remembers bits of text. a scriptable usb-cv-ii machine.
-
-_crow_ connects to norns and computers running max, max for live, and other serial-enabled applications. we've created various norns scripts and max for live devices which require no programming, and we've also created tutorials and studies to get you started quickly programming your own ideas into this tiny, powerful module.
-
-- [video](https://vimeo.com/362620801)
-- [documentation](https://monome.org/docs/crow)
-
-$280 &mdash; available september 15, 1pm EDT.
-
-<!--C ROW-->
 
 ---
 
