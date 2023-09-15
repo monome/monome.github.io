@@ -30,7 +30,7 @@ for file in $list ; do
   # rss
   echo "<item>" >> rss.xml
   echo "<title>monome</title>" >> rss.xml
-  echo "<link>https://nnnnnnnn.co/old.html</link>" >> rss.xml
+  echo "<link>https://monome.org/old.html</link>" >> rss.xml
   echo "<guid>$file</guid>" >> rss.xml
   echo "<description><![CDATA[" >> rss.xml
   cmark ${file} >> rss.xml
