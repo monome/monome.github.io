@@ -19,7 +19,7 @@ an open, tactile instrument that allows the user to imagine and define its funct
 
 the monome _grid_ by default does nothing. connected to a computer or module, interaction is determined by the chosen application: sequencer, sample cutter, tone map, polyrhythm machine. we’ve put together studies to help you create your own.
 
-  - [video](https://vimeo.com/266741634)
+  - [video](https://vimeo.com/841239908)
   - [documentation](https://monome.org/docs/grid)
 
 zero  
