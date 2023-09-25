@@ -25,16 +25,16 @@ the monome _grid_ by default does nothing. connected to a computer or module, in
 zero  
 sixteen by sixteen keys with decoupled warm white light  
 usb C, 10.4" x 10.4" x 0.5", 2.8 lbs  
-$1500 &mdash; available september 15, 1pm EDT.
+$1500 &mdash; available early december.
 
-<!--ZERO-->
+<!--Z ERO-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.4" x 5.4" x 0.5", 1.6 lbs  
-$700 &mdash; available september 15, 1pm EDT.
+$700 &mdash; available early december.
 
-<!--ONE-->
+<!--O NE-->
 
 <!--
 one (b-stock)  
@@ -54,9 +54,9 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 - [video](https://vimeo.com/362620801)
 - [documentation](https://monome.org/docs/crow)
 
-$280 &mdash; available september 15, 1pm EDT.
+$280 &mdash; available early 2024.
 
-<!--CROW-->
+<!--C ROW-->
 
 
 
