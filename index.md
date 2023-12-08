@@ -25,16 +25,16 @@ the monome _grid_ by default does nothing. connected to a computer or module, in
 zero  
 sixteen by sixteen keys with decoupled warm white light  
 usb C, 10.4" x 10.4" x 0.5", 2.8 lbs  
-$1500 &mdash; available december 8 1pm EST.
+$1500 &mdash;
 
-<!--Z ERO-->
+<!--ZERO-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.4" x 5.4" x 0.5", 1.6 lbs  
-$700 &mdash; available december 8 1pm EST.
+$700 &mdash;
 
-<!--O NE-->
+<!--ONE-->
 
 <!--
 one (b-stock)  
@@ -42,6 +42,22 @@ one (b-stock)
 $650 &mdash; available july 14 1pm EDT
 
 <!--B STOCK-->
+
+
+
+![](/image/norns-black.jpg)
+changes. travels. is open to possibilities.
+
+_norns_ is many sound instruments. it connects to grids, MIDI and other objects. norns lets you define its behavior with scripts and DSP. we've created extensive studies to help actualize new instruments yet to be imagined.
+
+- [video](https://vimeo.com/267112253)
+- [documentation](https://monome.org/docs/norns)
+
+$900 &mdash; available in grey or black.
+
+<!--BLACK-->
+
+<!--GREY-->
 
 
 
@@ -57,20 +73,6 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 $280 &mdash; available january 2024.
 
 <!--C ROW-->
-
-
-
-![](/image/norns-black.jpg)
-changes. travels. is open to possibilities.
-
-_norns_ is many sound instruments. it connects to grids, MIDI and other objects. norns lets you define its behavior with scripts and DSP. we've created extensive studies to help actualize new instruments yet to be imagined.
-
-- [video](https://vimeo.com/267112253)
-- [documentation](https://monome.org/docs/norns)
-
-$900 &mdash; available december 8 1pm EST, in grey or black.
-
-<!--N ORNS-->
 
 
 
