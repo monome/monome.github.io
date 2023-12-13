@@ -6,7 +6,7 @@ BE AWARE: International orders are subject to import taxes and duty upon arrival
 
 Cancellations
 
-Orders which have not yet shipped may be canceled any time before shipment for a full refund minus a 2.6% plus $0.30 (US) or 3.6% plus $0.30 (int'l) processing fee. Refunds must be sent to the original form of payment.
+Orders which have not yet shipped may be canceled any time before shipment for a full refund minus a 5% processing fee. This is due to payment processors not refunding fees.Refunds must be sent to the original form of payment.
 
 ---
 
