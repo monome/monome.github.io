@@ -25,16 +25,16 @@ the monome _grid_ by default does nothing. connected to a computer or module, in
 zero  
 sixteen by sixteen keys with decoupled warm white light  
 usb C, 10.4" x 10.4" x 0.5", 2.8 lbs  
-$1500 &mdash;
+$1500 &mdash; next available january 12.
 
-<!--ZERO-->
+<!--Z ERO-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.4" x 5.4" x 0.5", 1.6 lbs  
-$700 &mdash;
+$700 &mdash; next available january 12.
 
-<!--ONE-->
+<!--O NE-->
 
 <!--
 one (b-stock)  
@@ -53,12 +53,11 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://vimeo.com/267112253)
 - [documentation](https://monome.org/docs/norns)
 
-$900 &mdash; december stock sold out. next available february 2024.
+$900 &mdash; next available february 2024.
 
 <!--B LACK-->
 
 <!--G REY-->
-
 
 
 ![](/image/crow.jpg)
@@ -70,7 +69,7 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 - [video](https://vimeo.com/362620801)
 - [documentation](https://monome.org/docs/crow)
 
-$280 &mdash; available january 2024.
+$280 &mdash; available january 12.
 
 <!--C ROW-->
 
