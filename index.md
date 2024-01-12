@@ -27,14 +27,14 @@ sixteen by sixteen keys with decoupled warm white light
 usb C, 10.4" x 10.4" x 0.5", 2.8 lbs  
 $1500 &mdash; available january 12 1pm EST.
 
-<!--Z ERO-->
+<!--ZERO-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.4" x 5.4" x 0.5", 1.6 lbs  
 $700 &mdash; available january 12 1pm EST.
 
-<!--O NE-->
+<!--ONE-->
 
 <!--
 one (b-stock)  
@@ -71,7 +71,7 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 
 $280 &mdash; available january 12 at 1pm EST.
 
-<!--C ROW-->
+<!--CROW-->
 
 
 
