@@ -53,8 +53,7 @@
         ":focus": {
           "background-color": "#848484"
         },
-        "padding-left": "100px",
-        "padding-right": "100px"
+        "width": "300px"
       },
       "quantityInput": {
         "font-size": "13px",
@@ -68,7 +67,7 @@
       "price": false
     },
     "text": {
-      "button": "Add to cart"
+      "button": "crow: add to cart"
     },
     "googleFonts": [
       "Roboto"
@@ -111,8 +110,7 @@
         ":focus": {
           "background-color": "#848484"
         },
-        "padding-left": "100px",
-        "padding-right": "100px"
+        "width": "300px"
       },
       "quantityInput": {
         "font-size": "13px",
@@ -124,7 +122,7 @@
       "Roboto"
     ],
     "text": {
-      "button": "Add to cart"
+      "button": "crow: add to cart"
     }
   },
   "option": {},
