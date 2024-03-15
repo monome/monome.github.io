@@ -55,7 +55,8 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 
 $900 &mdash; pre-order march 15 1pm EST
 
-SHIPPING EARLY APRIL
+SHIPPING EARLY APRIL  
+UPDATE: ORDERS PLACED AFTER 1:30pm EST SHIPPING LATE APRIL
 
 <!--BLACK-->
 
