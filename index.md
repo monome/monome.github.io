@@ -53,12 +53,12 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://vimeo.com/267112253)
 - [documentation](https://monome.org/docs/norns)
 
-$900 &mdash; pre-order march 15 1pm EST
+$900 &mdash; available for ordering in may
 
-SHIPPING EARLY APRIL  
-NOW: ORDERS PLACED AFTER 1:30pm EST SHIPPING LATE APRIL
+PRE-ORDERS SHIPPING EARLY APRIL  
+ORDERS PLACED AFTER 1:30pm EST SHIPPING LATE APRIL
 
-<!--BLACK-->
+<!--B LACK-->
 
 <!--G REY-->
 
