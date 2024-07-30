@@ -14,7 +14,7 @@ and space
 
 ---
 
-before ordering please [read this](/policy.html).
+before ordering [please read this page](/policy.html) regarding taxes and shipping.
 
 ---
 
