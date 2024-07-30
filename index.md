@@ -14,6 +14,10 @@ and space
 
 ---
 
+before ordering please [read this](/policy.html).
+
+---
+
 [![](/image/both.jpg)](/image/high/both.jpg)
 an open, tactile instrument that allows the user to imagine and define its function.
 
