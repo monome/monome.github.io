@@ -2,11 +2,13 @@ Taxes
 
 BE AWARE: International orders are subject to import taxes and duty upon arrival, which will be paid by the receiver. This is typically around 20% of the retail cost. The carrier will contact you when the item arrives in customs to arrange payment. If this payment is refused and the package is returned, we will be forced to pay this duty and return shipping, which will be deducted from your refund.
 
+We cannot mark packages as undervalued.
+
 ---
 
 Cancellations
 
-Orders which have not yet shipped may be canceled any time before shipment for a full refund minus a 5% processing fee. This is due to payment processors not refunding fees.Refunds must be sent to the original form of payment.
+Orders which have not yet shipped may be canceled any time before shipment for a full refund minus a 5% processing fee. This is due to payment processors not refunding fees. Refunds must be sent to the original form of payment.
 
 ---
 
