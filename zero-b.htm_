@@ -1,4 +1,4 @@
-<div id='product-component-1732378244696'></div>
+<div id='product-component-1732381970716'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -27,7 +27,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9802802364715',
-        node: document.getElementById('product-component-1689344900511'),
+        node: document.getElementById('product-component-1732381970716'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -53,7 +53,7 @@
         ":focus": {
           "background-color": "#848484"
         },
-        "width": "300px"
+				"width": "300px"
       },
       "quantityInput": {
         "font-size": "13px",
@@ -67,7 +67,7 @@
       "price": false
     },
     "text": {
-      "button": "zero b-stock: add to cart"
+      "button": "zero (b-stock): add to cart"
     },
     "googleFonts": [
       "Roboto"
@@ -110,7 +110,7 @@
         ":focus": {
           "background-color": "#848484"
         },
-        "width": "300px"
+				"width": "300px"
       },
       "quantityInput": {
         "font-size": "13px",
