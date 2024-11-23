@@ -45,7 +45,7 @@ sed -i.raw 's|DATE|'$newsdate'|g' old.html
 
 
 # payment links
-sed -i.raw -e '/ZERO/r zero.htm_' -e '/ONE/r one.htm_' -e '/BSTOCK/r one-b.htm_' -e '/BLACK/r norns.htm_' -e '/GREY/r norns_grey.htm_' -e '/CROW/r crow.htm_' -e 'x;$G' index.html
+sed -i.raw -e '/ZERONEW/r zero.htm_' -e '/ZEROBSTOCK/r zero-b.htm_' -e '/ONENEW/r one.htm_' -e '/ONEBSTOCK/r one-b.htm_' -e '/BLACKNEW/r norns.htm_' -e '/BLACKBSTOCK/r norns-b.htm_' -e '/GREY/r norns_grey.htm_' -e '/CROW/r crow.htm_' -e 'x;$G' index.html
 
 
 # cleanup

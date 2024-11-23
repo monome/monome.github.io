@@ -31,21 +31,26 @@ sixteen by sixteen keys with decoupled warm white light
 usb C, 10.2" x 10.2" x 0.5", 2.8 lbs  
 $1500
 
-<!--ZERO-->
+<!--ZERONEW-->
+
+zero (b-stock)  
+100% new and functional, very minor aesthetic imperfections from the machine shop  
+$1400
+
+<!--ZEROBSTOCK-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
 $700
 
-<!--ONE-->
+<!--ONENEW-->
 
-<!--
 one (b-stock)  
 100% new and functional, very minor aesthetic imperfections from the machine shop  
-$650 &mdash; available july 14 1pm EDT
+$650
 
-<!--B STOCK-->
+<!--ONEBSTOCK-->
 
 
 
@@ -57,9 +62,16 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://vimeo.com/267112253)
 - [documentation](https://monome.org/docs/norns)
 
-$900 &mdash; available september 10, 1pm EST
+$900
 
-<!--BLACK-->
+<!--BLACKNEW-->
+
+norns (b-stock)
+100% new and functional, very minor aesthetic imperfections from the machine shop  
+$850
+
+<!--BLACKBSTOCK-->
+
 
 <!--G REY-->
 
