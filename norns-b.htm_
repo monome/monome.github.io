@@ -1,4 +1,4 @@
-<div id='product-component-1732378401502'></div>
+<div id='product-component-1732381786379'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -27,7 +27,7 @@
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '8912184377643',
-        node: document.getElementById('product-component-1702057079047'),
+        node: document.getElementById('product-component-1732381786379'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -53,7 +53,8 @@
         ":focus": {
           "background-color": "#848484"
         },
-        "width": "300px"
+        "padding-left": "100px",
+        "padding-right": "100px"
       },
       "quantityInput": {
         "font-size": "13px",
@@ -67,7 +68,7 @@
       "price": false
     },
     "text": {
-      "button": "norns black b-stock: add to cart"
+      "button": "norns b-stock: add to cart"
     },
     "googleFonts": [
       "Roboto"
@@ -110,7 +111,8 @@
         ":focus": {
           "background-color": "#848484"
         },
-        "width": "300px"
+        "padding-left": "100px",
+        "padding-right": "100px"
       },
       "quantityInput": {
         "font-size": "13px",
@@ -122,7 +124,7 @@
       "Roboto"
     ],
     "text": {
-      "button": "norns black: add to cart"
+      "button": "Add to cart"
     }
   },
   "option": {},
