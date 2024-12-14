@@ -115,6 +115,6 @@ monome is [brian crabtree](https://nnnnnnnn.co) and [kelli cain](http://kellicai
 
 monome is operated on a human scale. we use local suppliers and manufacturers, assemble and test in house, and only sell direct. like our designs, our organization is focussed on adaptability and the long-term. staying small affords us the flexibility to pursue interesting new directions, not simply commodify established trends.
 
-monome is supported by a global community of curious, helpful, and creative people. [dan derks](https://dndrks.com) is on the team. all based at [luck dragon](https://luckdragon.space).
+monome is supported by a global community of curious, helpful, and creative people. [dani derks](https://dndrks.com) is on the team. all based at [luck dragon](https://luckdragon.space).
 
 we began in 2005. we continue.
