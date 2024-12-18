@@ -46,11 +46,12 @@ $700
 
 <!--ONENEW-->
 
+<!--
 one (b-stock)  
 100% new and functional, very minor aesthetic imperfections from the machine shop  
 $650
 
-<!--ONEBSTOCK-->
+<!--O NEBSTOCK-->
 
 
 
