@@ -67,11 +67,12 @@ $900
 
 <!--BLACKNEW-->
 
+<!--
 norns (b-stock)
 100% new and functional, very minor aesthetic imperfections from the machine shop  
 $850
 
-<!--BLACKBSTOCK-->
+<!--B LACKBSTOCK-->
 
 
 <!--G REY-->
