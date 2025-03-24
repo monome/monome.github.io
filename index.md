@@ -33,11 +33,11 @@ $1500
 
 <!--ZERONEW-->
 
-zero (b-stock)  
+<!--zero (b-stock)  
 100% new and functional, very minor aesthetic imperfections from the machine shop  
 $1400
 
-<!--ZEROBSTOCK-->
+<!--Z EROBSTOCK-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
