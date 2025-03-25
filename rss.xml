@@ -6,6 +6,17 @@
 <item>
 <title>monome</title>
 <link>https://monome.org/old.html</link>
+<guid>./news/241218.md</guid>
+<description><![CDATA[
+<p>12/18/24 - not the new you're been looking for, but new nonetheless. grid sending usb-midi to a phone making choir ahhhs. what? this grid has a lua script running onboard. a realization, becoming crow-like. ahhh.</p>
+<p>just about ready.</p>
+<p><img src="/image/news/iii.jpg" alt="" /></p>
+]]></description>
+<pubDate>Wed, 18 Dec 2024 11:11:11 EST</pubDate>
+</item>
+<item>
+<title>monome</title>
+<link>https://monome.org/old.html</link>
 <guid>./news/241123.md</guid>
 <description><![CDATA[
 <p>11/23/24 - we're celebrating the season's first snow storm with candles, waiting for the power to return.</p>
@@ -19,9 +30,9 @@
 <link>https://monome.org/old.html</link>
 <guid>./news/241004.md</guid>
 <description><![CDATA[
-<p>10/05/2004 - cycling74's rnbo now supports monome devices. see the <a href="https://youtu.be/xrWHi84li3I">intro video</a> for a quick overview, and we're assembled a <a href="https://monome.org/docs/grid/studies/rnbo/">grid study for rnbo</a> for a full walkthrough.</p>
+<p>10/05/24 - cycling74's rnbo now supports monome devices. see the <a href="https://youtu.be/xrWHi84li3I">intro video</a> for a quick overview, and we're assembled a <a href="https://monome.org/docs/grid/studies/rnbo/">grid study for rnbo</a> for a full walkthrough.</p>
 ]]></description>
-<pubDate>Sat, 05 Oct 2024 11:11:11 EST</pubDate>
+<pubDate>Tue, 25 Mar 2025 11:11:11 EST</pubDate>
 </item>
 <item>
 <title>monome</title>
@@ -116,9 +127,9 @@
 <link>https://monome.org/old.html</link>
 <guid>./news/240308.md</guid>
 <description><![CDATA[
-<p>03/08/2024 - norns pre-order set for march 15 1pm EST, shipping early april. check the <a href="old.html">old news</a> for more information about this new edition.</p>
+<p>03/08/24 - norns pre-order set for march 15 1pm EST, shipping early april. check the <a href="old.html">old news</a> for more information about this new edition.</p>
 ]]></description>
-<pubDate>Fri, 08 Mar 2024 11:11:11 EST</pubDate>
+<pubDate>Tue, 25 Mar 2025 11:11:11 EST</pubDate>
 </item>
 <item>
 <title>monome</title>
@@ -313,17 +324,6 @@ and look forward to seeing what comes next</p>
 <p>01/01/23 - <a href="shipping.html">shipping updates</a> now have a dedicated page.</p>
 ]]></description>
 <pubDate>Mon, 20 Nov 2023 11:11:11 EST</pubDate>
-</item>
-<item>
-<title>monome</title>
-<link>https://monome.org/old.html</link>
-<guid>./news/2241218.md</guid>
-<description><![CDATA[
-<p>12/18/24 - not the new you're been looking for, but new nonetheless. grid sending usb-midi to a phone making choir ahhhs. what? this grid has a lua script running onboard. a realization, becoming crow-like. ahhh.</p>
-<p>just about ready.</p>
-<p><img src="/image/news/iii.jpg" alt="" /></p>
-]]></description>
-<pubDate>Wed, 18 Dec 2024 11:11:11 EST</pubDate>
 </item>
 <item>
 <title>monome</title>
