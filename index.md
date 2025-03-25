@@ -18,6 +18,24 @@ before ordering [please read this page](/policy.html) regarding taxes and shippi
 
 ---
 
+[![](/image/arc.jpg)](/image/high/arc.jpg)
+an instrument for circular interaction with light and sound. following the pattern established by the grid, each attached application determines the tactile and visual process.
+
+  - [video](https://vimeo.com/1069216011)
+  - more information in the coming days
+  <!--- [documentation](https://monome.org/docs/arc)-->
+
+<!-- A RC -->
+
+arc  
+four knobs ringed with decoupled warm white light  
+1024 ticks per revolution, single on-off pushbutton  
+usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
+$1100 - ordering and shipping begin april 2 1pm EDT
+
+
+
+
 [![](/image/both.jpg)](/image/high/both.jpg)
 an open, tactile instrument that allows the user to imagine and define its function.
 
@@ -42,7 +60,7 @@ $1400
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
-$700
+$700 (price increase to $800 on april 3)
 
 <!--ONENEW-->
 
@@ -52,6 +70,7 @@ one (b-stock)
 $650
 
 <!--O NEBSTOCK-->
+
 
 
 
