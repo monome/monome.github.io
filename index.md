@@ -29,7 +29,7 @@ an instrument for circular interaction with light and sound. following the patte
 
 arc  
 four knobs ringed with decoupled warm white light  
-1024 ticks per revolution, single on-off pushbutton  
+1024 ticks per revolution, single pushbutton  
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
 $1100 - ordering and shipping begin april 2 1pm EDT
 
