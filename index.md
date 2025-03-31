@@ -21,9 +21,9 @@ before ordering [please read this page](/policy.html) regarding taxes and shippi
 [![](/image/arc.jpg)](/image/high/arc.jpg)
 an instrument for circular interaction with light and sound. following the pattern established by the grid, each attached application determines the tactile and visual process.
 
-  - [video](https://vimeo.com/1069216011)
-  - more information in the coming days
-  <!--- [documentation](https://monome.org/docs/arc)-->
+  - [documentation](https://monome.org/docs/arc)
+  - [video (snows)](https://vimeo.com/1069216011)  
+  - [video (cycles)](https://vimeo.com/1071043221)
 
 <!-- A RC -->
 
