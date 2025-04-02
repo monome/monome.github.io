@@ -25,7 +25,7 @@ an instrument for circular interaction with light and sound. following the patte
   - [video (snows)](https://vimeo.com/1069216011)  
   - [video (cycles)](https://vimeo.com/1071043221)
 
-<!-- A RC -->
+<!-- ARC -->
 
 arc  
 four knobs ringed with decoupled warm white light  
