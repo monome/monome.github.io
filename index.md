@@ -23,6 +23,7 @@ an instrument for circular interaction with light and sound. following the patte
 
   - [documentation](https://monome.org/docs/arc)
   - [video (snows)](https://vimeo.com/1069216011)  
+  - [vidoo (erosion)](https://vimeo.com/1072397621)
   - [video (cycles)](https://vimeo.com/1071043221)
 
 <!-- ARC -->
@@ -60,7 +61,7 @@ $1400
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
-$700 (price increase to $800 on april 3)
+$800
 
 <!--ONENEW-->
 
