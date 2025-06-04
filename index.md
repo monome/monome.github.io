@@ -32,7 +32,7 @@ arc
 four knobs ringed with decoupled warm white light  
 1024 ticks per revolution, single pushbutton  
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
-$1100 - sold out, next coming early summer
+$1100 - sold out, next coming mid summer
 
 shipping has begun on existing orders. all orders should be shipped by about May 20 as we complete the build.
 
@@ -86,7 +86,7 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://vimeo.com/267112253)
 - [documentation](https://monome.org/docs/norns)
 
-$900 - sold out, next coming early summer
+$900 - sold out, next coming mid summer
 
 <!--B LACKNEW-->
 
