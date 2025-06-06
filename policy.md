@@ -1,6 +1,6 @@
 Taxes
 
-BE AWARE: International orders are subject to import taxes and duty upon arrival, which will be paid by the receiver. This is typically around 20% of the retail cost. The carrier will contact you when the item arrives in customs to arrange payment. If this payment is refused and the package is returned, we will be forced to pay this duty and return shipping, which will be deducted from your refund.
+For international orders, taxes and duty will be collected at time of sale. No additional payment or negotiation should be necessary upon arrival of the packge. 
 
 We cannot mark packages as undervalued.
 
@@ -16,7 +16,7 @@ Returns
 
 1. Within 7 days of delivery, email help@monome.org to arrange a return. If you’re in the US, we’ll email you a USPS return label. if you’re outside of the US, we’ll ask you to arrange return delivery using your preferred international shipping provider.
 2. Re-pack item(s) in their original packaging, as you received them. if any item had its own box, please repack it in a larger package – do not repurpose the item’s box as a sole shipping package.
-3. Once we receive the return, any item(s) in new/unused condition will receive a full refund (excluding any shipping costs and minus a 5% processing fee). Any used item(s) will be subject to a restocking fee as outlined below (excluding any shipping costs).
+3. Once we receive the return, any item(s) in new/unused condition will receive a full refund minus shipping costs, duty/taxes (if international), and a 5% processing fee. Any used item(s) will be subject to a restocking fee as outlined below (excluding any shipping costs).
 
 ---
 
