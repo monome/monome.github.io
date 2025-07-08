@@ -32,11 +32,7 @@ arc
 four knobs ringed with decoupled warm white light  
 1024 ticks per revolution, single pushbutton  
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
-$1100 - sold out, next coming mid summer
-
-shipping has begun on existing orders. all orders should be shipped by about May 20 as we complete the build.
-
-
+$1100 - sold out, available july 9 1pm EDT
 
 
 
