@@ -26,13 +26,13 @@ an instrument for circular interaction with light and sound. following the patte
   - [vidoo (erosion)](https://vimeo.com/1072397621)
   - [video (cycles)](https://vimeo.com/1071043221)
 
-<!-- A RC -->
+<!-- ARC -->
 
 arc  
 four knobs ringed with decoupled warm white light  
 1024 ticks per revolution, single pushbutton  
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
-$1100 - sold out, available july 9 1pm EDT
+$1100
 
 
 
