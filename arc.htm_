@@ -67,7 +67,7 @@
       "price": false
     },
     "text": {
-      "button": "PRE-ORDER arc: add to cart"
+      "button": "arc: add to cart"
     },
     "googleFonts": [
       "Roboto"
@@ -122,7 +122,7 @@
       "Roboto"
     ],
     "text": {
-      "button": "PRE-ORDER arc: add to cart"
+      "button": "arc: add to cart"
     }
   },
   "option": {},
