@@ -26,7 +26,7 @@ an instrument for circular interaction with light and sound. following the patte
   - [vidoo (erosion)](https://vimeo.com/1072397621)
   - [video (cycles)](https://vimeo.com/1071043221)
 
-<!-- ARC -->
+<!-- ARCNEW -->
 
 arc  
 four knobs ringed with decoupled warm white light  
@@ -34,6 +34,11 @@ four knobs ringed with decoupled warm white light
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
 $1100
 
+<!-- ARCB -->
+
+arc  
+100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
+$990
 
 
 [![](/image/both.jpg)](/image/high/both.jpg)
@@ -51,11 +56,11 @@ $1500
 
 <!--ZERONEW-->
 
-<!--zero (b-stock)  
-100% new and functional, very minor aesthetic imperfections from the machine shop  
-$1400
+zero (b-stock)  
+100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
+$1350
 
-<!--Z EROBSTOCK-->
+<!--ZEROBSTOCK-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
@@ -64,12 +69,11 @@ $800
 
 <!--ONENEW-->
 
-<!--
 one (b-stock)  
-100% new and functional, very minor aesthetic imperfections from the machine shop  
-$650
+100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
+$720
 
-<!--O NEBSTOCK-->
+<!--ONEBSTOCK-->
 
 
 
@@ -84,14 +88,13 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 
 $900 - available august 9th at 1pm EDT. shipping begins august 12. later orders will ship the following week or so.
 
-<!--B LACKNEW-->
+<!--BLACKNEW-->
 
-<!--
 norns (b-stock)
-100% new and functional, very minor aesthetic imperfections from the machine shop  
-$850
+100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
+$810
 
-<!--B LACKBSTOCK-->
+<!--BLACKBSTOCK-->
 
 
 <!--G REY-->

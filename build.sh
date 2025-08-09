@@ -36,7 +36,7 @@ for file in $list ; do
   cmark ${file} >> rss.xml
   echo "]]></description>" >> rss.xml
   date=$(date -r $file "+%a, %d %b %Y 11:11:11 EST")
-  echo "<pubDate>$date</pubDate>" >> rss.xml 
+  echo "<pubDate>$date</pubDate>" >> rss.xml
   echo "</item>" >> rss.xml
 done
 cat foot.htm_ >> old.html
@@ -45,7 +45,7 @@ sed -i.raw 's|DATE|'$newsdate'|g' old.html
 
 
 # payment links
-sed -i.raw -e '/ARC/r arc.htm_' -e '/ZERONEW/r zero.htm_' -e '/ZEROBSTOCK/r zero-b.htm_' -e '/ONENEW/r one.htm_' -e '/ONEBSTOCK/r one-b.htm_' -e '/BLACKNEW/r norns.htm_' -e '/BLACKBSTOCK/r norns-b.htm_' -e '/GREY/r norns_grey.htm_' -e '/CROW/r crow.htm_' -e 'x;$G' index.html
+sed -i.raw -e '/ARCNEW/r arc.htm_' -e '/ARCB/r arc-b.htm_' -e '/ZERONEW/r zero.htm_' -e '/ZEROBSTOCK/r zero-b.htm_' -e '/ONENEW/r one.htm_' -e '/ONEBSTOCK/r one-b.htm_' -e '/BLACKNEW/r norns.htm_' -e '/BLACKBSTOCK/r norns-b.htm_' -e '/GREY/r norns_grey.htm_' -e '/CROW/r crow.htm_' -e 'x;$G' index.html
 
 
 # cleanup
