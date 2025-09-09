@@ -16,6 +16,8 @@ and space
 
 before ordering [please read this page](/policy.html) regarding taxes, shipping, and returns.
 
+note that all orders outside the US will have import taxes prepaid.
+
 ---
 
 [![](/image/arc.jpg)](/image/high/arc.jpg)
