@@ -109,10 +109,7 @@ _crow_ connects to norns and computers running max, max for live, and other seri
 - [video](https://vimeo.com/362620801)
 - [documentation](https://monome.org/docs/crow)
 
-$280
-
-<!--CROW-->
-
+as of october 2025 crow is discontinued. while we've schemed with whimsical raps about future evolutions, there is no timeline.
 
 
 ---
