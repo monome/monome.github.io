@@ -118,7 +118,9 @@ contact help@monome.org with questions.
 
 [llllllll.co](https://llllllll.co) is for community discussion.
 
-shipping happens on tuesdays. a tracking number is sent when each order ships. see [shipping updates](/shipping.html) for current status on any waiting preorders.
+shipping happens on wednesdays, and often other days. a tracking number is sent when each order ships. please contact us if special arrangements are required.
+
+we offer a cash discount for in-person purchases. workshop visits are welcome.
 
 we're committed to keeping these machines working. email us for repairs. also see purchase [policy](/policy.html).
 
@@ -134,8 +136,6 @@ events and release announcements and stock updates: subscribe via our [email new
 
 monome is [brian crabtree](https://nnnnnnnn.co) and [kelli cain](http://kellicain.com). we met in art school where our initial collaborations included electro-mechanical installations, films, and music. now we live and work in the mountains of upstate new york where we also tend apple orchards, shiitake stacks, and forest paths.</p>
 
-monome is operated on a human scale. we use local suppliers and manufacturers, assemble and test in house, and only sell direct. like our designs, our organization is focussed on adaptability and the long-term. staying small affords us the flexibility to pursue interesting new directions, not simply commodify established trends.
-
-monome is supported by a global community of curious, helpful, and creative people. [dani derks](https://dndrks.com) is on the team. all based at [luck dragon](https://luckdragon.space).
+monome is supported by a global community of curious, helpful, and creative people. all based at [luck dragon](https://luckdragon.space).
 
 we began in 2005. we continue.
