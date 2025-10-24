@@ -55,25 +55,26 @@ usb C, 10.2" x 10.2" x 0.5", 2.8 lbs
 $1500
 
 <!--ZERONEW-->
-
+<!--
 zero (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $1350
 
-<!--ZEROBSTOCK-->
+<!--ZERO BSTOCK-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
 $800
 
-<!--ONENEW-->
 
+<!--ONENEW-->
+<!--
 one (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $720
 
-<!--ONEBSTOCK-->
+<!--ONE BSTOCK-->
 
 
 
@@ -90,14 +91,14 @@ $900 - available august 9th at 1pm EDT. shipping begins august 12. later orders 
 
 <!--BLACKNEW-->
 
+<!--
+
 norns (b-stock)
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $810
 
-<!--BLACKBSTOCK-->
+<!--BLACK BSTOCK-->
 
-
-<!--G REY-->
 
 
 ![](/image/crow.jpg)
