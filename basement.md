@@ -4,11 +4,9 @@ over the last month we've been spending a lot of time in the basement at luck dr
 
 as objects depart and find a way to their right place, we find space in our minds to expand and become more ourselves.
 
-shipping costs will be added at checkout. the really weird stuff we cannot ship internationally. get in touch if you're _really_ into something and we'll figure it out.
+shipping costs will be added at checkout. the really weird stuff we cannot ship internationally. get in touch if you're _really_ into something and we'll figure it out. e-mail help@monome.org.
 
-prices subject to change. likely to drop, but might rise suddenly as sentimentality strikes, like pulling a totally-still-good-i-think length of wood from a burning bonfire.
-
-click images to see high resolution for closer inspection, we assure all products are legitimate.
+prices subject to change. likely to drop, but might rise suddenly as sentimentality strikes, like pulling a totally-still-good-i-think length of wood from a burning bonfire. click images to see high resolution for closer inspection, we assure all products are legitimate. shipping begins wednesday 10/29.
 
 ---
 
