@@ -1567,7 +1567,7 @@ canon 28-135mm
 
 we shot many of the early monome videos with this attached to our canon 5D, so it's seen a lot of magic moments and also a comic amount of frustration. i don't know where the hood came from but it's there now. [here are some specs](https://www.kenrockwell.com/canon/lenses/28-135mm.htm). great condition.
 
-$97
+$67
 
 <div id='product-component-1761416680359'></div>
 <script type="text/javascript">
@@ -4068,7 +4068,7 @@ turntable lab hard case
 
 at calarts shortly after we all arrived, the weird music people decided to all get together in a theatre and... make sound together. i brought a technics 1200 and a stack of thrift store records, that's it. it was maybe the second time i hung out with ezra. a few months later i had a working prototype grid. we live in the mountains now and the turntable does not travel, it stays put. but this case is rad. might be a bit to ship.
 
-$77
+$45
 
 <div id='product-component-1761417830983'></div>
 <script type="text/javascript">
