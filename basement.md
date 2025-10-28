@@ -2,7 +2,7 @@
 
 over the last month we've been spending a lot of time in the basement at luck dragon, a sort of reckoning with what it means to run a synth business for a couple decades. below is the gold we found amidst the not-gold, gifts from the past that did not end up in the recycling bin or were successfully begged to be taken away by anyone with a kind heart.
 
-as objects depart and find a way to their right place, we find space in our minds to expand and become more ourselves.
+as objects depart and find a way to their right place, we find space in our minds to expand. or maybe not so much expand, but at least make some room.
 
 shipping costs will be added at checkout. the really weird stuff we cannot ship internationally. get in touch if you're _really_ into something and we'll figure it out. e-mail help@monome.org.
 
@@ -20,7 +20,7 @@ includes circuit, enclosure, screen cover, hardware. does not include raspberry 
 
 two variations: 210330 (CS4720 codec) and 211028 (CS4721 codec). the later might have noise issues when using a Pi 4 but can be [addressed with tape](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
 
-$209
+$189
 
 210330
 
