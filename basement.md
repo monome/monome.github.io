@@ -20,7 +20,7 @@ includes circuit, enclosure, screen cover, hardware. does not include raspberry 
 
 two variations: 210330 (CS4720 codec) and 211028 (CS4721 codec). the later might have noise issues when using a Pi 4 but can be [addressed with tape](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
 
-$189
+$159
 
 210330
 
