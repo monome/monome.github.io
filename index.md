@@ -87,7 +87,7 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://vimeo.com/267112253)
 - [documentation](https://monome.org/docs/norns)
 
-$900 - available august 9th at 1pm EDT. shipping begins august 12. later orders will ship the following week or so.
+$900 available to ship immediately.
 
 <!--BLACKNEW-->
 
