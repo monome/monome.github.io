@@ -1,6 +1,6 @@
 Taxes
 
-For international orders, taxes and duty will be collected at time of sale. No additional payment or negotiation should be necessary upon arrival of the packge.
+For international orders, taxes and duty will be collected at time of sale. No additional payment or negotiation should be necessary upon arrival of the package.
 
 We cannot mark packages as undervalued.
 
