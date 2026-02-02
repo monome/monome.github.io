@@ -125,6 +125,8 @@ we offer a cash discount for in-person purchases. workshop visits are welcome.
 
 we're committed to keeping these machines working. email us for repairs. also see purchase [policy](/policy.html).
 
+we've made many of our designs open-source which means monome-like machines out there. please keep in mind that we do not have the capacity to offer direct support for anything we did not manufacture.
+
 in the [past](/past.html) we created some other objects.
 
 events and release announcements and stock updates: subscribe via our [email newsletter](https://buttondown.email/monome) or use [rss](/rss.xml)
