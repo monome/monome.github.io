@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#101010">
+    <title>web-diii</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icons/logo.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="header-left">
+                <div class="title-pill">
+                    <h1>//// web-diii</h1>
+                </div>
+                <div id="replStatusPill" class="repl-status-pill">
+                    <span id="replStatusIndicator" class="repl-status-indicator"></span>
+                    <span id="replStatusText" class="repl-status-text">not connected</span>
+                </div>
+            </div>
+            <div class="header-right">
+                <button id="scriptReferenceBtn" class="repl-connection-btn">documentation</button>
+            </div>
+        </header>
+
+        <div class="workspace">
+            <div class="split-container" id="splitContainer">
+                <aside class="file-explorer-pane" id="fileExplorerPane">
+                    <div class="file-explorer-header">
+                        <button id="toggleExplorerBtn" class="file-explorer-toggle" aria-label="toggle file explorer" aria-expanded="false">
+                            <span class="file-explorer-icon" aria-hidden="true">
+                                <svg viewBox="0 0 16 16" role="img" aria-hidden="true" focusable="false">
+                                    <path d="M4 1.75h5.2l3.05 3.05V14.25H4z" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linejoin="round"/>
+                                    <path d="M9.2 1.75v3.05h3.05" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linejoin="round"/>
+                                </svg>
+                            </span>
+                            <span id="explorerChevron" class="file-explorer-chevron" aria-hidden="true">›</span>
+                        </button>
+                    </div>
+                    <div id="fileList" class="file-list" aria-label="file list"></div>
+                    <div id="fileSpaceFooter" class="file-space-footer">free space: -- kb</div>
+                </aside>
+                <div id="explorerResizer" class="explorer-resizer" role="separator" tabindex="0" aria-orientation="vertical" aria-label="resize explorer" aria-controls="fileExplorerPane"></div>
+                <div class="repl-pane full-width" id="replPane">
+                    <div class="repl-content">
+                        <div class="repl-output-area">
+                            <div id="output" class="repl-output"></div>
+                            <button id="clearBtn" class="repl-action-btn output-cleanup-btn">clean</button>
+                        </div>
+                        <div class="repl-actions">
+                            <button id="replConnectionBtn" class="repl-connection-btn" title="connect/disconnect (Cmd/Ctrl+Shift+C)">connect</button>
+                            <button id="uploadBtn" class="repl-action-btn">upload</button>
+                            <button id="restartBtn" class="repl-action-btn">reboot</button>
+                            <button id="bootloaderBtn" class="repl-action-btn">bootloader</button>
+                            <button id="reformatBtn" class="repl-action-btn">reformat</button>
+                            <div class="repl-actions-spacer"></div>
+                        </div>
+                        <div class="repl-input-container">
+                            <div class="repl-input-row">
+                                <span class="repl-input-prompt" aria-hidden="true">&gt;&gt;</span>
+                                <textarea id="replInput" class="repl-input" placeholder="send iii commands live here"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <input type="file" id="fileInput" accept=".lua" style="display: none;">
+    </div>
+
+    <div id="browserWarning" class="modal" style="display: none;">
+        <div class="modal-content">
+            <h2>Browser Not Supported</h2>
+            <p>This application requires the Web Serial API, which is only available in Chromium-based browsers.</p>
+            <p>Please use Chrome, Edge, or Opera.</p>
+            <button id="closeWarning" class="modal-btn">Close</button>
+        </div>
+    </div>
+
+    <script src="diii.js"></script>
+</body>
+</html>

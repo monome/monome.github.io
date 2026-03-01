@@ -1,0 +1,13 @@
+{
+  "name": "web-diii",
+  "short_name": "diii",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
