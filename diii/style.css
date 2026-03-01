@@ -188,6 +188,35 @@ body {
     font-size: 1.5rem;
 }
 
+.file-explorer-refresh {
+    border: 0;
+    background-color: transparent;
+    color: var(--interactive-medium);
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.file-explorer-refresh:hover {
+    color: var(--interactive-selected);
+}
+
+.file-explorer-refresh:focus-visible {
+    outline: 1px solid var(--accent);
+    outline-offset: 1px;
+}
+
+.file-explorer-refresh svg {
+    width: 16px;
+    height: 16px;
+    display: block;
+}
+
 .file-explorer-pane.collapsed {
     width: 52px;
     min-width: 52px;
@@ -199,6 +228,10 @@ body {
 .file-explorer-pane.collapsed .file-list-separator,
 .file-explorer-pane.collapsed .file-row,
 .file-explorer-pane.collapsed .file-space-footer {
+    display: none;
+}
+
+.file-explorer-pane.collapsed .file-explorer-refresh {
     display: none;
 }
 

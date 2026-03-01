@@ -248,6 +248,7 @@ class DruidApp {
             fileList: document.getElementById('fileList'),
             fileSpaceFooter: document.getElementById('fileSpaceFooter'),
             toggleExplorerBtn: document.getElementById('toggleExplorerBtn'),
+            refreshExplorerBtn: document.getElementById('refreshExplorerBtn'),
             explorerChevron: document.getElementById('explorerChevron'),
 
             connectionBtn: document.getElementById('replConnectionBtn'),
@@ -281,6 +282,7 @@ class DruidApp {
         on(this.elements.replInput, 'keydown', (e) => this.handleReplInput(e));
         on(document, 'keydown', (e) => this.handleGlobalShortcuts(e));
         on(this.elements.toggleExplorerBtn, 'click', () => this.toggleExplorer());
+        on(this.elements.refreshExplorerBtn, 'click', () => this.refreshFileList());
         on(this.elements.explorerResizer, 'pointerdown', (e) => this.startExplorerResize(e));
         on(this.elements.explorerResizer, 'keydown', (e) => this.handleExplorerResizerKeydown(e));
         on(this.elements.uploadBtn, 'click', () => this.openUploadPicker());
@@ -344,6 +346,11 @@ class DruidApp {
         }
         if (this.elements.toggleExplorerBtn) {
             this.elements.toggleExplorerBtn.setAttribute('aria-expanded', String(!this.isExplorerCollapsed));
+        }
+        if (this.elements.refreshExplorerBtn) {
+            this.elements.refreshExplorerBtn.hidden = this.isExplorerCollapsed;
+            this.elements.refreshExplorerBtn.setAttribute('aria-hidden', String(this.isExplorerCollapsed));
+            this.elements.refreshExplorerBtn.tabIndex = this.isExplorerCollapsed ? -1 : 0;
         }
         if (this.elements.explorerChevron) {
             this.elements.explorerChevron.textContent = this.isExplorerCollapsed ? '›' : '‹';
