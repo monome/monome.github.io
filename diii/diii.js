@@ -1,5 +1,5 @@
 /**
- * web-diii REPL-only app
+ * diii web app
  * Minimal serial REPL + script browser iii devices.
  */
 
@@ -192,7 +192,7 @@ class iiiConnection {
     }
 }
 
-class DruidApp {
+class diiiApp {
     constructor() {
         this.iiiDevice = new iiiConnection();
         this.selectedPort = null;
@@ -208,9 +208,8 @@ class DruidApp {
         this.historyIndex = -1;
         this.currentInput = '';
         this.pendingLuaCapture = null;
+        this.luaCaptureSeq = 0;
         this.reconnectAfterRestartTimer = null;
-        this.toastTimer = null;
-        this.toastElement = null;
         this.fileEntries = [];
         this.firstBadgeFileNames = new Set();
         this.fileFreeSpaceBytes = null;
@@ -600,6 +599,12 @@ class DruidApp {
         input.selectionStart = input.selectionEnd = input.value.length;
     }
 
+    resetReplInput() {
+        this.elements.replInput.value = '';
+        this.historyIndex = -1;
+        this.currentInput = '';
+    }
+
     async sendReplCommand(code) {
         this.outputLine(`>> ${code}`);
         const isHelpShortcut = /^h$/i.test(code.trim());
@@ -612,33 +617,25 @@ class DruidApp {
 
         if (isHelpShortcut) {
             this.showHelp();
-            this.elements.replInput.value = '';
-            this.historyIndex = -1;
-            this.currentInput = '';
+            this.resetReplInput();
             return;
         }
 
         if (isUploadShortcut) {
             this.openUploadPicker();
-            this.elements.replInput.value = '';
-            this.historyIndex = -1;
-            this.currentInput = '';
+            this.resetReplInput();
             return;
         }
 
         if (isReUploadShortcut) {
             await this.refreshUploadAndRunLastScript();
-            this.elements.replInput.value = '';
-            this.historyIndex = -1;
-            this.currentInput = '';
+            this.resetReplInput();
             return;
         }
 
         if (!this.iiiDevice.isConnected) {
             this.outputLine('no iii device connected.');
-            this.elements.replInput.value = '';
-            this.historyIndex = -1;
-            this.currentInput = '';
+            this.resetReplInput();
             return;
         }
 
@@ -646,9 +643,7 @@ class DruidApp {
             const fileSelectMatch = code.match(/^\^\^s\s+(.+)$/);
             if (fileSelectMatch) {
                 await this.openAndSelectRemoteFile(fileSelectMatch[1].trim());
-                this.elements.replInput.value = '';
-                this.historyIndex = -1;
-                this.currentInput = '';
+                this.resetReplInput();
                 return;
             }
 
@@ -657,9 +652,7 @@ class DruidApp {
                 await this.delay(1);
             }
 
-            this.elements.replInput.value = '';
-            this.historyIndex = -1;
-            this.currentInput = '';
+            this.resetReplInput();
         } catch (error) {
             this.outputLine(`Error: ${error.message}`);
         }
@@ -974,11 +967,6 @@ class DruidApp {
     updateFileSpaceFooter(bytes) {
         if (!this.elements.fileSpaceFooter) return;
 
-        if (typeof bytes === 'string' && bytes.trim()) {
-            this.elements.fileSpaceFooter.textContent = bytes.trim();
-            return;
-        }
-
         if (!Number.isFinite(Number(bytes))) {
             this.elements.fileSpaceFooter.textContent = 'free space: -- kb';
             return;
@@ -1047,14 +1035,13 @@ class DruidApp {
     }
 
     async sendScriptTextToiii(fileName, text) {
-        const baseName = fileName;
         const lines = this.getUploadLines(text);
 
-        await this.executeLuaCapture(`fs_remove_file(${this.luaQuote(baseName)})`);
+        await this.executeLuaCapture(`fs_remove_file(${this.luaQuote(fileName)})`);
 
         // Match diii upload protocol:
         // ^^s, <filename>, ^^f, ^^s, <file lines>, ^^w
-        await this.openAndSelectRemoteFile(baseName);
+        await this.openAndSelectRemoteFile(fileName);
         await this.iiiDevice.writeLine('^^s');
         await this.delay(100);
 
@@ -1185,8 +1172,7 @@ class DruidApp {
                 return {
                     name: file.name,
                     text: await file.text(),
-                    fileHandle: this.lastUploadedScript.fileHandle,
-                    refreshed: true
+                    fileHandle: this.lastUploadedScript.fileHandle
                 };
             } catch (error) {
                 this.outputLine(`Refresh error: ${error.message}`);
@@ -1207,8 +1193,7 @@ class DruidApp {
         return {
             name: picked.file.name,
             text: await picked.file.text(),
-            fileHandle: picked.handle,
-            refreshed: true
+            fileHandle: picked.handle
         };
     }
 
@@ -1334,33 +1319,23 @@ class DruidApp {
             const menu = document.createElement('div');
             menu.className = `file-menu${this.openMenuFile === entry.name ? ' open' : ''}`;
 
-            const actions = (isInitLuaFile
+            const actions = isInitLuaFile
                 ? [
                     { label: 'read', fn: () => this.showFile(entry.name) },
                     { label: 'delete', fn: () => this.deleteFile(entry.name) }
                 ]
                 : isLibFile
                     ? [
-                        { label: 'read', fn: () => this.showFile(entry.name) },
-                        { label: 'download', fn: () => this.downloadFile(entry.name) }
+                        { label: 'download', fn: () => this.downloadFile(entry.name) },
+                        { label: 'read', fn: () => this.showFile(entry.name) }
                     ]
                     : [
-                        { label: 'first', fn: () => this.configureFirst(entry.name) },
-                        { label: 'read', fn: () => this.showFile(entry.name) },
                         { label: 'run', fn: () => this.enqueueRunFile(entry.name) },
                         { label: 'download', fn: () => this.downloadFile(entry.name) },
+                        { label: 'first', fn: () => this.configureFirst(entry.name) },
+                        { label: 'read', fn: () => this.showFile(entry.name) },
                         { label: 'delete', fn: () => this.deleteFile(entry.name) }
-                    ])
-                .sort((a, b) => {
-                    const priorityOf = (label) => {
-                        if (label === 'run') return 0;
-                        if (label === 'delete') return 2;
-                        return 1;
-                    };
-                    const priorityDiff = priorityOf(a.label) - priorityOf(b.label);
-                    if (priorityDiff !== 0) return priorityDiff;
-                    return a.label.localeCompare(b.label);
-                });
+                    ];
 
             for (const action of actions) {
                 const item = document.createElement('button');
@@ -1408,18 +1383,12 @@ class DruidApp {
 
         if (line === capture.endToken) {
             clearTimeout(capture.timeoutId);
-            const { resolve, lines, error } = capture;
             this.pendingLuaCapture = null;
-            resolve({ lines, error });
+            capture.resolve(capture.lines);
             return true;
         }
 
         if (!capture.started) return false;
-
-        if (line.startsWith(capture.errorPrefix)) {
-            capture.error = line;
-            return true;
-        }
 
         capture.lines.push(line);
         return true;
@@ -1444,10 +1413,9 @@ class DruidApp {
             throw new Error('Device is busy, please try again');
         }
 
-        const captureId = `${Date.now()}_${Math.random().toString(16).slice(2, 8)}`;
+        const captureId = ++this.luaCaptureSeq;
         const beginToken = `__webdiii_begin:${captureId}`;
         const endToken = `__webdiii_end:${captureId}`;
-        const errorPrefix = '__webdiii_err:';
 
         const resultPromise = new Promise((resolve, reject) => {
             const timeoutId = setTimeout(() => {
@@ -1458,10 +1426,8 @@ class DruidApp {
             this.pendingLuaCapture = {
                 beginToken,
                 endToken,
-                errorPrefix,
                 started: false,
                 lines: [],
-                error: null,
                 timeoutId,
                 resolve,
                 reject
@@ -1482,11 +1448,7 @@ class DruidApp {
 
         await this.iiiDevice.writeLine(`print(${this.luaQuote(endToken)})`);
 
-        const result = await resultPromise;
-        if (result.error) {
-            throw new Error(result.error);
-        }
-        return result.lines;
+        return resultPromise;
     }
 
     async refreshFileList() {
@@ -1500,17 +1462,11 @@ class DruidApp {
         }
 
         try {
-            const lines = await this.executeLuaCapture([
-                'print("__webdiii_ls_begin")',
-                'for _, __name in ipairs(fs_list_files()) do local __size = fs_file_size(__name) or 0; print("__webdiii_file\\t" .. __name .. "\\t" .. tostring(__size)) end',
-                'print("__webdiii_ls_end")',
-                'print("__webdiii_mem_begin")',
-                'print(fs_free_space())',
-                'print("__webdiii_mem_end")'
-            ]);
+            const lsLines = await this.executeLuaCapture(
+                'for _, __name in ipairs(fs_list_files()) do local __size = fs_file_size(__name) or 0; print("__webdiii_file\\t" .. __name .. "\\t" .. tostring(__size)) end'
+            );
+            const memLines = await this.executeLuaCapture('print(fs_free_space())');
 
-            const lsLines = this.extractLinesBetweenMarkers(lines, '__webdiii_ls_begin', '__webdiii_ls_end');
-            const memLines = this.extractLinesBetweenMarkers(lines, '__webdiii_mem_begin', '__webdiii_mem_end');
             const entries = this.parseFileEntriesFromLs(lsLines);
             this.fileFreeSpaceBytes = this.parseMemoryFooterFromMem(memLines);
 
@@ -1540,28 +1496,6 @@ class DruidApp {
         return match?.[2]?.trim() || '';
     }
 
-    extractLinesBetweenMarkers(lines, beginMarker, endMarker) {
-        const captured = [];
-        let inSection = false;
-
-        for (const rawLine of lines) {
-            const line = String(rawLine || '').trim();
-            if (line === beginMarker) {
-                inSection = true;
-                continue;
-            }
-            if (line === endMarker) {
-                inSection = false;
-                continue;
-            }
-            if (inSection) {
-                captured.push(String(rawLine || ''));
-            }
-        }
-
-        return captured;
-    }
-
     parseFileEntriesFromLs(lines) {
         const entries = [];
         const seenNames = new Set();
@@ -1569,55 +1503,30 @@ class DruidApp {
         for (const rawLine of lines) {
             const line = String(rawLine || '').trim();
 
-            if (line.startsWith('__webdiii_file\t')) {
-                const parts = line.split('\t');
-                if (parts.length >= 3) {
-                    const name = String(parts[1] || '').trim();
-                    const isLua = name.toLowerCase().endsWith('.lua');
-                    const isInit = name === 'init';
-                    if (!isLua && !isInit) continue;
-                    if (seenNames.has(name)) continue;
-                    seenNames.add(name);
-                    const parsedSize = Number.parseInt(parts[2], 10);
-                    entries.push({
-                        name,
-                        size: Number.isFinite(parsedSize) ? parsedSize : null
-                    });
-                    continue;
-                }
-            }
+            if (!line.startsWith('__webdiii_file\t')) continue;
 
-            const tokens = line.split(/\s+/).filter(Boolean);
-            for (const token of tokens) {
-                const cleaned = token.replace(/[,:;]+$/, '');
-                const isLua = cleaned.toLowerCase().endsWith('.lua');
-                const isInit = cleaned === 'init';
-                if (!isLua && !isInit) continue;
-                if (seenNames.has(cleaned)) continue;
-                seenNames.add(cleaned);
-                entries.push({ name: cleaned, size: null });
-            }
+            const parts = line.split('\t');
+            if (parts.length < 3) continue;
+
+            const name = String(parts[1] || '').trim();
+            const isLua = name.toLowerCase().endsWith('.lua');
+            const isInit = name === 'init';
+            if (!isLua && !isInit) continue;
+            if (seenNames.has(name)) continue;
+            seenNames.add(name);
+
+            const parsedSize = Number.parseInt(parts[2], 10);
+            entries.push({
+                name,
+                size: Number.isFinite(parsedSize) ? parsedSize : null
+            });
         }
 
         return entries;
     }
 
     parseMemoryFooterFromMem(lines) {
-        const cleanedLines = lines
-            .map((line) => String(line || '').trim())
-            .filter((line) => line.length > 0);
-
-        if (cleanedLines.length === 0) {
-            return null;
-        }
-
-        const bestLine = cleanedLines.find((line) => /\d/.test(line)) || cleanedLines[0];
-        const numericMatch = bestLine.match(/-?\d+/);
-        if (!numericMatch) {
-            return null;
-        }
-
-        const bytes = Number.parseInt(numericMatch[0], 10);
+        const bytes = Number.parseInt(lines[0], 10);
         return Number.isFinite(bytes) && bytes >= 0 ? bytes : null;
     }
 
@@ -1684,21 +1593,15 @@ class DruidApp {
             this.elements.output.appendChild(topSpacerLine);
 
             const headerLine = document.createElement('span');
-            headerLine.textContent = `${fileName} contents:\n`;
+            headerLine.textContent = `${fileName} contents:\n\n`;
             this.elements.output.appendChild(headerLine);
-
-            const afterHeaderSpacerLine = document.createElement('span');
-            afterHeaderSpacerLine.textContent = '\n';
-            this.elements.output.appendChild(afterHeaderSpacerLine);
 
             const lines = await this.executeLuaCapture(`cat(${this.luaQuote(fileName)})`);
             for (const line of lines) {
                 this.outputLine(line, { autoScroll: false });
             }
 
-            const trailingSpacerLine = document.createElement('span');
-            trailingSpacerLine.textContent = '\n';
-            this.elements.output.appendChild(trailingSpacerLine);
+            this.outputText('\n', { autoScroll: false });
 
             this.elements.output.scrollTop = topSpacerLine.offsetTop;
         } catch (error) {
@@ -1722,6 +1625,7 @@ class DruidApp {
         this.queueSuppressedOutputLine('-- re-init with no script', 8000);
         this.queueSuppressedOutputLine('-- init: skip script', 8000);
         this.queueSuppressedOutputLine('-- lua lib', 8000);
+        this.outputLine(`running ${fileName}...`);
         await this.iiiDevice.writeLine('^^c');
         await this.delay(500);
         await this.executeLua(`fs_run_file("lib.lua")`);
@@ -1810,10 +1714,10 @@ class DruidApp {
 
     showHelp() {
         this.outputLine('');
-        this.outputLine(' web-diii helpers:');
+        this.outputLine(' diii helpers:');
         this.outputLine(' h            show this help');
         this.outputLine(' u            open file picker (same as upload button)');
-        this.outputLine(' r            init, refresh last upload, run');
+        this.outputLine(' r            re-upload and run last uploaded script');
         this.outputLine(' Cmd/Ctrl+Shift+C  connect/disconnect');
         this.outputLine('');
         this.outputLine(' common iii commands:');
@@ -1830,7 +1734,7 @@ class DruidApp {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    new DruidApp();
+    new diiiApp();
 
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js').catch((error) => {

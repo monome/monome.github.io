@@ -1,6 +1,6 @@
-# web-diii
+# diii
 
-a web-based alternative to diii
+a web-based alternative to the python-based diii CLI
 
 to run locally run this in the web-diii root directory then browse to localhost:8000
 ```bash

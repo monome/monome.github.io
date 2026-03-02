@@ -1,4 +1,4 @@
-const CACHE = 'web-diii-v1';
+const CACHE = 'diii-v1';
 const APP_SHELL_FILES = [
   '/',
   '/index.html',

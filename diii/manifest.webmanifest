@@ -1,6 +1,5 @@
 {
-  "name": "web-diii",
-  "short_name": "diii",
+  "name": "diii",
   "start_url": "/",
   "display": "standalone",
   "icons": [
