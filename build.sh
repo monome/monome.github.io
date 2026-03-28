@@ -1,6 +1,6 @@
 #!/bin/bash
 
-list=$(ls ./*.md; ls ./past/*.md)
+list=$(ls ./*.md; ls ./news/*.md)
 for file in $list ; do
   date=$(date -r ${file} +%D)
   file=${file:2}
@@ -28,10 +28,13 @@ for file in $list ; do
   cmark --unsafe ${file} >> old.html
   echo "<br/><br/>" >> old.html
   # rss
+  rssfile=${file:2}
+  rssfile=${rssfile%.*}
+  rssfile=${rssfile}.html
   echo "<item>" >> rss.xml
   echo "<title>monome</title>" >> rss.xml
-  echo "<link>https://monome.org/old.html</link>" >> rss.xml
-  #echo "<guid>$file</guid>" >> rss.xml
+  echo "<link>https://monome.org</link>" >> rss.xml
+  echo "<guid>https://monome.org/$rssfile</guid>" >> rss.xml
   echo "<description><![CDATA[" >> rss.xml
   cmark ${file} >> rss.xml
   echo "]]></description>" >> rss.xml
@@ -50,4 +53,4 @@ sed -i.raw -e '/ARCNEW/r arc.htm_' -e '/ARCB/r arc-b.htm_' -e '/ZERONEW/r zero.h
 
 # cleanup
 rm *.raw
-rm past/*.raw
+rm news/*.raw
