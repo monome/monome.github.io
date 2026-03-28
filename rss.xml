@@ -6,6 +6,18 @@
 <item>
 <title>monome</title>
 <link>https://monome.org/old.html</link>
+<guid>./news/260328.md</guid>
+<description><![CDATA[
+<p>03/28/26</p>
+<!-- raw HTML omitted -->
+<p><a href="/docs/iii">iii</a> is a new platform which allows scripts to be run on grids and arcs, connecting directly to synths via usb-MIDI. it's available free as an firmware update to recent-ish rp2040-based hardware.</p>
+<p>shown above, the script <a href="/docs/iii/library/wake">wake</a> playing <a href="https://atrium.whimsicalraps.com">atrium</a>.</p>
+]]></description>
+<pubDate>Sat, 28 Mar 2026 11:11:11 EST</pubDate>
+</item>
+<item>
+<title>monome</title>
+<link>https://monome.org/old.html</link>
 <guid>./news/260311.md</guid>
 <description><![CDATA[
 <p>03/11/26 - we continue.</p>
