@@ -10,7 +10,7 @@ and space
 
 <!--NEWS-->
 
-[old news](/news.html) / [rss](rss.xml)
+[old news](/old.html) / [rss](rss.xml)
 
 ---
 
