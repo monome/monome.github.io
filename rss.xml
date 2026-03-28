@@ -9,7 +9,7 @@
 <guid>https://monome.org/news/260328.html</guid>
 <description><![CDATA[
 <p>03/28/26</p>
-<!-- raw HTML omitted -->
+<iframe allow="fullscreen" loading="lazy" src="https://hyper8.monome.org/wake-atrium/embed/" style="aspect-ratio: 1.7777778; border: none; width: 100%;"> </iframe>
 <p><a href="https://monome.org/docs/iii">iii</a> is a new platform which allows scripts to be run on grids and arcs, connecting directly to synths via usb-MIDI. it's available free as an firmware update to recent-ish rp2040-based hardware.</p>
 <p>shown above, the script <a href="/docs/iii/library/wake">wake</a> playing <a href="https://atrium.whimsicalraps.com">atrium</a>.</p>
 ]]></description>
@@ -94,7 +94,7 @@
 <guid>https://monome.org/news/251015.html</guid>
 <description><![CDATA[
 <p>10/15/2025</p>
-<!-- raw HTML omitted -->
+<iframe allow="fullscreen" loading="lazy" src="https://hyper8.monome.org/approaching-crow/embed/" style="aspect-ratio: 1.7777778; border: none; width: 100%;"></iframe>
 <p>crow has departed. trent and i agreed that it was time to discontinue as we both have new projects we're deep into and every time crow stock runs out we say we're going to do the successor project. and maybe we actually will, once we emerge from the fog.</p>
 <p>but this was also a moment to rediscover what we did, where crow went. it started as a CV extension for norns. but as everything unfolded it went much, much further. the original release video above reminded me.</p>
 <p>we look forward to seeing crow's genetics reappear and continue to evolve. thank you for coming on the journey with us.</p>
@@ -119,7 +119,7 @@
 <guid>https://monome.org/news/250808.html</guid>
 <description><![CDATA[
 <p>08/08/25</p>
-<!-- raw HTML omitted -->
+<iframe allow="fullscreen" loading="lazy" src="https://hyper8.monome.org/arc-snows-op-xy/embed/" style="aspect-ratio: 1.7777778; border: none; width: 100%;"></iframe>
 <p>arc running <a href="https://monome.org/docs/iii/library/snows">snows</a> connected directly to an OP-XY, by <a href="https://www.instagram.com/jaygilligan_/">jay gilligan</a>.</p>
 <p>august 9 at 1pm EDT orders will open for a new batch of norns. we're back to the original encoders, which have a fast action. the knobs sit just a bit higher. they feel great. otherwise everything is the same as before.</p>
 <p>at the same time we're making available a lot of b-stock devices. b-stock means something different for various companies, so we <a href="/bstock.html">wrote up the specifics</a> and included some photos. in short: they are near perfect, and they are 10% off.</p>
@@ -134,7 +134,7 @@
 <guid>https://monome.org/news/250708.html</guid>
 <description><![CDATA[
 <p>07/08/25</p>
-<!-- raw HTML omitted -->
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1099770303?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="arc ribbons"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p>this is <a href="https://monome.org/docs/iii/library/ribbons/">ribbons</a>, a <em>folded euclidean arpeggiator</em>. it sounds good most of the time! a little distraction while trying to wrap up the elusive iii v1.0 (we're close).</p>
 <p>arc available again, july 9 1pm EDT. immediate shipping.</p>
 ]]></description>
@@ -157,7 +157,7 @@
 <guid>https://monome.org/news/250407.html</guid>
 <description><![CDATA[
 <p>04/07/25</p>
-<!-- raw HTML omitted -->
+<div style="padding-bottom: 56.25%; position: relative;"><iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1072397621?autopause=0&byline=0&fun=0&portrait=0&title=0&transparent=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0"></iframe></div>
 <p>here's our friend <a href="https://coolmaritime.org">cool maritime</a> performing with a script we co-designed called <em>erosion</em>.</p>
 <p>arc is shipping now. new pre-orders placed now will ship starting late this month.</p>
 ]]></description>
@@ -169,7 +169,7 @@
 <guid>https://monome.org/news/250325.html</guid>
 <description><![CDATA[
 <p>03/25/25</p>
-<!-- raw HTML omitted -->
+<div style="padding-bottom: 56.25%; position: relative;"><iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1069216011?autopause=0&byline=0&fun=0&portrait=0&title=0&transparent=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0"></iframe></div>
 <p>arc is returning<br />
 we said never again and then we<br />
 said it would be easy and maybe<br />
@@ -302,7 +302,7 @@ next week we begin again.</p>
 <guid>https://monome.org/news/240214.html</guid>
 <description><![CDATA[
 <p>02/14/24</p>
-<!-- raw HTML omitted -->
+<div style="padding-bottom: 56.25%; position: relative;"><iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="https://player.vimeo.com/video/913013027?autopause=0&byline=0&fun=0&portrait=0&title=0&transparent=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0"></iframe></div>
 <p><a href="https://llllllll.co/t/cc-canvas/66147">cc-canvas</a> is a slewing recallable midi cc bender, made by dan for the grid (zero).</p>
 <p>norns components are arriving ahead of next month's edition. it's been something like 18 months since we were able to build a real batch due to shortages. while the upcoming machines will be functionally identical, there are quite a few improvements we made:</p>
 <ul>
@@ -382,7 +382,7 @@ next week we begin again.</p>
 <guid>https://monome.org/news/230630.html</guid>
 <description><![CDATA[
 <p>06/30/23</p>
-<!-- raw HTML omitted -->
+<div style="padding-bottom: 56.25%; position: relative;"><iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="https://player.vimeo.com/video/841239908?autopause=0&byline=0&fun=0&portrait=0&title=0&transparent=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  width="100%" height="100%" frameborder="0"></iframe></div>
 <p>so we made a new thing<br />
 but really an old thing<br />
 from over a decade ago<br />

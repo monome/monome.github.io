@@ -36,7 +36,7 @@ for file in $list ; do
   echo "<link>https://monome.org</link>" >> rss.xml
   echo "<guid>https://monome.org/$rssfile</guid>" >> rss.xml
   echo "<description><![CDATA[" >> rss.xml
-  cmark ${file} >> rss.xml
+  cmark --unsafe ${file} >> rss.xml
   echo "]]></description>" >> rss.xml
   date=$(date -r $file "+%a, %d %b %Y 11:11:11 EST")
   echo "<pubDate>$date</pubDate>" >> rss.xml
