@@ -30,7 +30,7 @@
             <div class="split-container" id="splitContainer">
                 <aside class="file-explorer-pane" id="fileExplorerPane">
                     <div class="file-explorer-header">
-                        <button id="toggleExplorerBtn" class="file-explorer-toggle" aria-label="toggle file explorer" aria-expanded="false">
+                        <button type="button" id="toggleExplorerBtn" class="file-explorer-toggle" aria-label="toggle file explorer" aria-expanded="false">
                             <span class="file-explorer-icon" aria-hidden="true">
                                 <svg viewBox="0 0 16 16" role="img" aria-hidden="true" focusable="false">
                                     <path d="M4 1.75h5.2l3.05 3.05V14.25H4z" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linejoin="round"/>
@@ -39,7 +39,7 @@
                             </span>
                             <span id="explorerChevron" class="file-explorer-chevron" aria-hidden="true">›</span>
                         </button>
-                        <button id="refreshExplorerBtn" class="file-explorer-refresh" type="button" aria-label="refresh file view" title="refresh file view">
+                        <button type="button" id="refreshExplorerBtn" class="file-explorer-refresh" type="button" aria-label="refresh file view" title="refresh file view">
                             <!-- License: MIT. Made by elusiveicons: https://elusiveicons.com -->
                             <svg viewBox="0 0 1200 1200" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M600,0C308.74,0,66.009,207.555,11.499,482.812h166.553C229.37,297.756,398.603,161.719,600,161.719c121.069,0,230.474,49.195,309.668,128.613l-192.48,192.48h304.762H1200V0l-175.781,175.781C915.653,67.181,765.698,0,600,0z M0,717.188V1200l175.781-175.781C284.346,1132.819,434.302,1200,600,1200c291.26,0,533.991-207.555,588.501-482.812h-166.553C970.631,902.243,801.396,1038.281,600,1038.281c-121.069,0-230.474-49.195-309.668-128.613l192.48-192.48H0z" fill="currentColor"/>
@@ -54,20 +54,21 @@
                     <div class="repl-content">
                         <div class="repl-output-area">
                             <div id="output" class="repl-output"></div>
-                            <button id="clearBtn" class="repl-action-btn output-cleanup-btn">clean</button>
+                            <button type="button" id="clearBtn" class="repl-action-btn output-cleanup-btn">clean</button>
                         </div>
                         <div class="repl-actions">
-                            <button id="replConnectionBtn" class="repl-connection-btn" title="connect/disconnect (Cmd/Ctrl+Shift+C)">connect</button>
-                            <button id="uploadBtn" class="repl-action-btn">upload</button>
-                            <button id="restartBtn" class="repl-action-btn">reboot</button>
-                            <button id="bootloaderBtn" class="repl-action-btn">bootloader</button>
-                            <button id="reformatBtn" class="repl-action-btn">reformat</button>
+                            <button type="button" id="replConnectionBtn" class="repl-connection-btn" title="connect/disconnect (Cmd/Ctrl+Shift+C)">connect</button>
+                            <button type="button" id="uploadBtn" class="repl-action-btn">upload</button>
+                            <button type="button" id="restartBtn" class="repl-action-btn">reboot</button>
+                            <button type="button" id="bootloaderBtn" class="repl-action-btn">bootloader</button>
+                            <button type="button" id="reformatBtn" class="repl-action-btn">reformat</button>
                             <div class="repl-actions-spacer"></div>
                         </div>
                         <div class="repl-input-container">
                             <div class="repl-input-row">
                                 <span class="repl-input-prompt" aria-hidden="true">&gt;&gt;</span>
-                                <textarea id="replInput" class="repl-input" placeholder="send iii commands live here"></textarea>
+                                <label for="replInput" style="display: none;">type iii commands here</label>
+                                <textarea id="replInput" class="repl-input" placeholder="send iii commands live here" aria-describedby="replInput"></textarea>
                             </div>
                         </div>
                     </div>
@@ -75,15 +76,16 @@
             </div>
         </div>
 
-        <input type="file" id="fileInput" accept=".lua" style="display: none;">
+        <label for="fileInput" style="display: none;">load a lua file</label>
+        <input type="file" id="fileInput" accept=".lua" aria-describedby="fileInput" style="display: none;">
     </div>
 
-    <div id="browserWarning" class="modal" style="display: none;">
+    <div role="alertdialog" aria-modal="true" id="browserWarning" class="modal" style="display: none;">
         <div class="modal-content">
             <h2>Browser Not Supported</h2>
             <p>This application requires the Web Serial API, which is only available in Chromium-based browsers.</p>
             <p>Please use Chrome, Edge, or Opera.</p>
-            <button id="closeWarning" class="modal-btn">Close</button>
+            <button type="button" id="closeWarning" class="modal-btn">Close</button>
         </div>
     </div>
 
