@@ -22,9 +22,9 @@ before ordering [please read this page](/policy.html) regarding taxes, shipping,
 an instrument for circular interaction with light and sound. following the pattern established by the grid, each attached application determines the tactile and visual process.
 
   - [documentation](https://monome.org/docs/arc)
-  - [video (snows)](https://vimeo.com/1069216011)  
-  - [vidoo (erosion)](https://vimeo.com/1072397621)
-  - [video (cycles)](https://vimeo.com/1071043221)
+  - [video (snows)](https://hyper8.monome.org/arc-snows/)  
+  - [vidoo (erosion)](https://hyper8.monome.org/erosion/)
+  - [video (cycles)](https://hyper8.monome.org/arc-iii-cycles/)
 
 <!-- ARCNEW -->
 
@@ -46,7 +46,7 @@ an open, tactile instrument that allows the user to imagine and define its funct
 
 the monome _grid_ by default does nothing. connected to a computer or module, interaction is determined by the chosen application: sequencer, sample cutter, tone map, polyrhythm machine. we’ve put together studies to help you create your own.
 
-  - [video](https://vimeo.com/841239908)
+  - [video](https://hyper8.monome.org/zero/)
   - [documentation](https://monome.org/docs/grid)
 
 zero  
@@ -84,7 +84,7 @@ changes. travels. is open to possibilities.
 
 _norns_ is many sound instruments. it connects to grids, MIDI and other objects. norns lets you define its behavior with scripts and DSP. we've created extensive studies to help actualize new instruments yet to be imagined.
 
-- [video](https://vimeo.com/267112253)
+- [video](https://hyper8.monome.org/norns-approaching/)
 - [documentation](https://monome.org/docs/norns)
 
 $900 available to ship immediately.
@@ -107,7 +107,7 @@ speaks and listens and remembers bits of text. a scriptable usb-cv-ii machine.
 
 _crow_ connects to norns and computers running max, max for live, and other serial-enabled applications. we've created various norns scripts and max for live devices which require no programming, and we've also created tutorials and studies to get you started quickly programming your own ideas into this tiny, powerful module.
 
-- [video](https://vimeo.com/362620801)
+- [video](https://hyper8.monome.org/approaching-crow/)
 - [documentation](https://monome.org/docs/crow)
 
 as of october 2025 crow is discontinued. while we've schemed with whimsical raps about future evolutions, there is no timeline.
