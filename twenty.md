@@ -1,12 +1,12 @@
 may 2026. twenty years.
 
-behold, annotated selections from our photo roll. semi-linear, semi-narrative, dates and placenames approximate. of course no archive tells the whole story: computers vanish periods of history, things happen online, we forget to capture a moment because we were too distracted or overjoyed or totally freaked out. but somewhere through this collection a web of threads emerge. approaches and inclinations and absurdity and experimentation and dreaming and world-building. to celebrate many ways of being. clues to how we got here, perhaps where we might go.
+behold, annotated selections from our photo roll. semi-linear, semi-narrative, dates and placenames approximate. of course no archive tells the whole story: computers vanish periods of history, things happen online, we forget to capture a moment because we were too distracted or overjoyed or totally freaked out. but somewhere within this collection a web of threads emerge. approaches and inclinations and absurdity and experimentation and dreaming and world-building. to celebrate many ways of being. clues to how we got here and perhaps where we might go.
 
 ---
 
 ![](image/20/0410-wiring.jpg)
 
-october 2004, val verde &mdash; one of the few handwired prototypes, mostly salvage components, daringly/inadvisably fragile.
+october 2004, val verde &mdash; one of the few handwired prototypes, mostly salvag components, daringly/inadvisably fragile.
 
 ![](image/20/0501-floor.jpg)
 
@@ -22,15 +22,15 @@ january 2006, pomona &mdash; repetition and multiplication is one way. doing thi
 
 ![](image/20/0602-eggs.jpg)
 
-february 2006, pomona &mdash; art in its natural habitat. somehow more people than just us decided a mechanical egg tapping drum machine deserved such treatment.
+february 2006, pomona &mdash; art in its natural habitat. a grid and old computer electro-acoustic egg-tapping drum machine.
 
 ![](image/20/0508-pcb.jpg)
 
-august 2005, pasadena &mdash; our first ever circuit board promised that some day the wires maybe wouldn't fall out during a show. the wire debugging flurry was spectacular theatre but we could see it wasn't a sustainable career path.
+august 2005, pasadena &mdash; our first ever circuit board promised that some day the wires maybe wouldn't fall out during a show. the wire debugging flurry was spectacular theatre but maybe not a sustainable career path.
 
 ![](image/20/1009-barnshow.jpg)
 
-september 2010, delhi &mdash; we had no idea what was coming later.
+september 2010, delhi &mdash; we had no idea what was coming.
 
 
 ![](image/20/0712-philadelphia.jpg)
@@ -39,11 +39,11 @@ december 2007, philadelphia &mdash; evidence of the thorough integration of work
 
 ![](image/20/0603-epoxy.jpg)
 
-march 2006, philadelphia &mdash; somehow we thought we could resin-cast all of the enclosures at our worktable. moments after this photo the whole thing spilled out allover the place and there was hysterical laughter. we changed our minds.
+march 2006, philadelphia &mdash; somehow we thought we would be able to resin-cast all of the enclosures at our worktable. moments after this photo the resin spilled out allover the place and there was hysterical laughter. we changed our minds.
 
 ![](image/20/0602-toaster.jpg)
 
-february 2006, philadelphia &mdash; there is a legend that the first several hundred grids were solderpaste stenciled, hand-placed with tweezers, and cooked in a toaster oven. we can't confirm this, but if it were true that would be a truly questionable business model.
+february 2006, philadelphia &mdash; there is a legend that the first several hundred grids were solder-paste stenciled, hand-placed with tweezers, and cooked in a toaster oven. we can't confirm this, but if it were true that would be a truly questionable business model.
 
 ![](image/20/1003-mold.jpg)
 
@@ -51,7 +51,7 @@ march 2010, pottstown &mdash; a rare sighting of the keypad spontaneous generato
 
 ![](image/20/0610-desk.jpg)
 
-october 2006, philadelphia &mdash; cousteau saw that we needed some supervision and to relax a little bit, decided to move in.
+october 2006, philadelphia &mdash; cousteau saw that we needed some supervision and to relax a little bit, so decided to move in.
 
 ![](image/20/0704-dublab.jpg)
 
@@ -63,7 +63,7 @@ april 2006, san mateo &mdash; it was a sort of science fair, a mob of friends, s
 
 ![](image/20/0712-shower.jpg)
 
-december 2007, philadelphia &mdash; michael i am sorry we probably wrecked your bathroom with all of the silkscreening washouts.
+december 2007, philadelphia &mdash; michael i am sorry we wrecked your bathroom with all of the silkscreening washouts.
 
 ![](image/20/1707-pool.jpg)
 
@@ -211,7 +211,7 @@ december 2025 &mdash; luck dragon is an idea and also an art store. imagination 
 
 ![](image/20/2108-hh.jpg)
 
-august 2021, delhi &mdash; places where time stands still. others where it vanishes. is time actually real.
+august 2021, delhi &mdash; places where time stands still. others where it vanishes. is time actually real?
 
 ![](image/20/1911-rainbow.jpg)
 
