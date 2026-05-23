@@ -11,6 +11,7 @@ for file in $list ; do
   cmark --unsafe ${file}.md >> ${target}
   cat foot.htm_ >> ${target}
   sed -i.raw 's|DATE|'$date'|g' ${target}
+  sed -i "s|<img|<img loading=lazy|g" ${target}
 done
 
 # news
