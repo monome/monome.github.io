@@ -6,7 +6,7 @@ behold, annotated selections from our photo roll. semi-linear, semi-narrative, d
 
 ![](image/20/0410-wiring.jpg)
 
-october 2004, val verde &mdash; one of the few handwired prototypes, mostly salvag components, daringly/inadvisably fragile.
+october 2004, val verde &mdash; one of the few handwired prototypes, mostly salvage components, daringly/inadvisably fragile.
 
 ![](image/20/0501-floor.jpg)
 
@@ -22,7 +22,7 @@ january 2006, pomona &mdash; repetition and multiplication is one way. doing thi
 
 ![](image/20/0602-eggs.jpg)
 
-february 2006, pomona &mdash; art in its natural habitat. a grid and old computer electro-acoustic egg-tapping drum machine.
+february 2006, pomona &mdash; art in its natural habitat. a grid-and-old-computer electro-acoustic egg-tapping drum-machine.
 
 ![](image/20/0508-pcb.jpg)
 
@@ -111,7 +111,7 @@ march 2008, los angeles &mdash; overambition subjected to workshop attendees, we
 
 ![](image/20/0805-felt.jpg)
 
-may 2008, los angeles &mdash; the internet really liked kelli's noisy soft tape machine.
+may 2008, los angeles &mdash; the internet really liked kelli's soft noisy tape machine.
 
 ![](image/20/0706-cases.jpg)
 
@@ -179,7 +179,7 @@ march 2022, delhi &mdash; in town, half hidden, bottom floor destroyed and reima
 
 ![](image/20/2409-scale.jpg)
 
-september 2024, delhi &mdash; despite advances in technology we still weigh our shipments with an analog scale as it improves the sound quality. the donated mellotron would sound amazing if we found time to repair it. the sound of past futures, the forgone westinghouse tram proposal in los angeles.
+september 2024, delhi &mdash; despite advances in technology we still weigh our shipments with an analog scale for improved sound quality. the donated mellotron would sound amazing if we found time to repair it. the sound of past futures, the forgone westinghouse tram proposal in los angeles.
 
 ![](image/20/0607-paper.jpg)
 
@@ -187,11 +187,11 @@ july 2006, philadelphia &mdash; to answer a remarkably frequently asked question
 
 ![](image/20/2507-shelves.jpg)
 
-july 2025 &mdash; beechi insists that we reuse these cardboard boxes until they absolutely disintegrate, some of which must be a decade old by now. having less enthusiasm for cardboard, lemmy stayed home this day.
+july 2025, delhi &mdash; beechi insists that we reuse these cardboard boxes until they absolutely disintegrate, some of which must be a decade old by now. having less enthusiasm for cardboard, lemmy stayed home this day.
 
 ![](image/20/2412-grease.jpg)
 
-december 2024 &mdash; a cursed object is also an enchanted object. each arc produced between 2012 and 2022 had its fancy custom bearings anointed with industrial grease using a paintbrush from this object. sometimes we'd need to scoop more from the vat using that bit of circuit board cutoff. some habits are accidental and don't get reevaluated for years because they just sortof work.
+december 2024, delhi &mdash; a cursed object is also an enchanted object. each arc produced between 2012 and 2022 had its fancy custom bearings anointed with industrial grease using a paintbrush from this object. sometimes we'd need to scoop more from the vat using that bit of circuit board cutoff. some habits are accidental and don't get reevaluated for years because they just sortof work.
 
 ![](image/20/0805-tapemachine.jpg)
 
@@ -207,7 +207,7 @@ august 2018, azores &mdash; the time we headlined the big international circus f
 
 ![](image/20/2512-luckdragon.jpg)
 
-december 2025 &mdash; luck dragon is an idea and also an art store. imagination and curiosity can save us from the swamp of sadness.
+december 2025, delhi &mdash; luck dragon is an idea and also an art store. imagination and curiosity can save us from the swamp of sadness.
 
 ![](image/20/2108-hh.jpg)
 
@@ -215,31 +215,31 @@ august 2021, delhi &mdash; places where time stands still. others where it vanis
 
 ![](image/20/1911-rainbow.jpg)
 
-november 2019 &mdash; softbits show rehearsal on the third floor of half hidden, summoning the spirits of victorian wallpaper and repurposed modern construction materials and costumes. weather, the year's halloween theme. we have a deep regard for weather and also halloween. if you agree we could probably be friends.
+november 2019, delhi &mdash; softbits show rehearsal on the third floor of half hidden, summoning the spirits of victorian wallpaper and repurposed modern construction materials and costumes. weather, the year's halloween theme. we have a deep regard for weather and also halloween. if you agree we could probably be friends.
 
 ![](image/20/2509-studio.jpg)
 
-october 2025 &mdash; forlorn barn workshop later became studio. building a good studio requires only two steps. first, find a tree with irresistible energy. and then, be near.
+october 2025, delhi &mdash; forlorn barn workshop later became studio. building a good studio requires only two steps. first, find a tree with irresistible energy. and then, be near.
 
 ![](image/20/2310-barn.jpg)
 
-october 2023 &mdash; the open side of the barn we succeeded in preventing the inevitable-seeming condition of over-accumulation, staying clear for performances and gatherings, except during harvest season when garlic and onions and potatoes and shallots and herbs of all kinds hang around allover the place curing. most of my favorite music has happened here. eifel agrees.
+october 2023, delhi &mdash; the open side of the barn we succeeded in preventing the inevitable-seeming condition of over-accumulation, staying clear for performances and gatherings, except during harvest season when garlic and onions and potatoes and shallots and herbs of all kinds hang around allover the place curing. most of my favorite music has happened here. eifel agrees.
 
 ![](image/20/2307-skateboard.jpg)
 
-july 2011 &mdash; built the same year as dublab alongside those first broadcasts, and later succumbed at the hands (feet) of friends of dublab in the barn. it was a good party. music and friends and fire.
+july 2011, delhi &mdash; built the same year as dublab alongside those first broadcasts, and later succumbed at the hands (feet) of friends of dublab in the barn. it was a good party. music and friends and fire.
 
 ![](image/20/2210-fire.jpg)
 
-october 2022 &mdash; endings and renewal.
+october 2022, delhi &mdash; endings and renewal.
 
 ![](image/20/2508-farm.jpg)
 
-august 2025 &mdash; rainbows from dirt.
+august 2025, delhi &mdash; rainbows from dirt.
 
 ![](image/20/2306-zero.jpg)
 
-june 2023 &mdash; a bright circle of time, shaped like a square, still here, new and the same.
+june 2023, delhi &mdash; a bright circle of time, shaped like a square, still here, new and the same.
 
 
 <br/>
