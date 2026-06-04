@@ -34,12 +34,12 @@ four knobs ringed with decoupled warm white light
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
 $1100
 
-<!-- ARCB -->
-
+<!-- ARC B -->
+<!--
 arc  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $990
-
+-->
 
 [![](/image/both.jpg)](/image/high/both.jpg)
 an open, tactile instrument that allows the user to imagine and define its function.
