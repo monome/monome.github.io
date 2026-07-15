@@ -26,7 +26,6 @@ an instrument for circular interaction with light and sound. following the patte
   - [vidoo (erosion)](https://hyper8.monome.org/erosion/)
   - [video (cycles)](https://hyper8.monome.org/arc-iii-cycles/)
 
-<!-- ARCNEW -->
 
 arc  
 four knobs ringed with decoupled warm white light  
@@ -34,12 +33,15 @@ four knobs ringed with decoupled warm white light
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
 $1100
 
-<!-- ARC B -->
-<!--
+<!-- ARCNEW -->
+
+
 arc  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
-$990
--->
+$880
+
+<!-- ARCB -->
+
 
 [![](/image/both.jpg)](/image/high/both.jpg)
 an open, tactile instrument that allows the user to imagine and define its function.
@@ -55,12 +57,12 @@ usb C, 10.2" x 10.2" x 0.5", 2.8 lbs
 $1500
 
 <!--ZERONEW-->
-<!--
+
 zero (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
-$1350
+$1200
 
-<!--ZERO BSTOCK-->
+<!--ZEROBSTOCK-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
@@ -69,12 +71,12 @@ $800
 
 
 <!--ONENEW-->
-<!--
+
 one (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
-$720
+$640
 
-<!--ONE BSTOCK-->
+<!--ONEBSTOCK-->
 
 
 
@@ -87,9 +89,199 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://hyper8.monome.org/norns-approaching/)
 - [documentation](https://monome.org/docs/norns)
 
-$900. out of stock. estimate for next edition not yet established.
+$900 norns black
 
-<!--BLACK NEW-->
+<!--out of stock. estimate for next edition not yet established.-->
+
+<!--BLACKNEW-->
+
+$900 norns grey
+
+<div id='product-component-1784127557403'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'monome.myshopify.com',
+      storefrontAccessToken: '54686b55d507067316908858df83ace3',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '10464335855915',
+        node: document.getElementById('product-component-1784127557403'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "button": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "font-size": "13px",
+        "padding-top": "14.5px",
+        "padding-bottom": "14.5px",
+        ":hover": {
+          "background-color": "#848484"
+        },
+        "background-color": "#939393",
+        ":focus": {
+          "background-color": "#848484"
+        },
+        "padding-left": "100px",
+        "padding-right": "100px"
+      },
+      "quantityInput": {
+        "font-size": "13px",
+        "padding-top": "14.5px",
+        "padding-bottom": "14.5px"
+      }
+    },
+    "contents": {
+      "img": false,
+      "title": false,
+      "price": false
+    },
+    "text": {
+      "button": "norns grey: add to cart"
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "font-size": "13px",
+        "padding-top": "14.5px",
+        "padding-bottom": "14.5px",
+        ":hover": {
+          "background-color": "#848484"
+        },
+        "background-color": "#939393",
+        ":focus": {
+          "background-color": "#848484"
+        },
+        "padding-left": "100px",
+        "padding-right": "100px"
+      },
+      "quantityInput": {
+        "font-size": "13px",
+        "padding-top": "14.5px",
+        "padding-bottom": "14.5px"
+      }
+    },
+    "googleFonts": [
+      "Roboto"
+    ],
+    "text": {
+      "button": "norns grey: add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "font-size": "13px",
+        "padding-top": "14.5px",
+        "padding-bottom": "14.5px",
+        ":hover": {
+          "background-color": "#848484"
+        },
+        "background-color": "#939393",
+        ":focus": {
+          "background-color": "#848484"
+        }
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    },
+    "popup": false,
+    "googleFonts": [
+      "Roboto"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "background-color": "#939393",
+        ":hover": {
+          "background-color": "#848484"
+        },
+        ":focus": {
+          "background-color": "#848484"
+        }
+      },
+      "count": {
+        "font-size": "13px"
+      }
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+
 
 <!--
 
@@ -140,5 +332,7 @@ events and release announcements and stock updates: subscribe via our [email new
 monome is [brian crabtree](https://nnnnnnnn.co) and [kelli cain](http://kellicain.com). we met in art school where our initial collaborations included electro-mechanical installations, films, and music. now we live and work in the mountains of upstate new york where we also tend apple orchards, shiitake stacks, and forest paths.</p>
 
 monome is supported by a global community of curious, helpful, and creative people. all based at [luck dragon](https://luckdragon.space).
+
+see the [twenty year retrospective](/twenty).
 
 we began in 2005. we continue.
