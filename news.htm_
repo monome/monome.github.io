@@ -1,39 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>monome</title>
-    <meta name="keywords" content="monome, grid, norns, crow, teletype, ansible">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="rss feed">
-<!--<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> -->
-<style>
-    @font-face {
-      font-family: 'Roboto Mono'; font-style: normal; font-weight: 400;
-      src: local(''),
-        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
-        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
-    body {background-color:#222; max-width:800px; color:#fff; line-height: 1.6;
-      font-family: 'Roboto Mono', monospace; font-size: 1.0em;
-      margin:40px auto; padding: 0 10px;}
-    code {font-size: 1.6em; color:#999;}
-    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
-    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
-    a {color:#aaa;}
-    a:hover {color:#ccc;}
-    img {margin-top: 4em; margin-bottom: 2em; max-width:100%;}
-    input {font-family: inherit;}
-</style>
-</head>
-<body>
-<br/>
-<br/>
-<p>07/15/26</p>
-<p><a href="https://www.youtube.com/watch?v=fhHJykM1GWk"><img loading=lazy src="/image/mlrws.jpg" alt="" /></a></p>
-<p><a href="https://www.youtube.com/watch?v=fhHJykM1GWk">mlrws</a> is a mlr adaptation for the Music Thing Workshop Computer created by <a href="https://github.com/dessertplanet">dessertplanet</a>. it is astonishingly well featured for such a tiny computer.</p>
-<p>norns is sold out and we don't yet have a timeline for their return. however we did find some extra parts while cleaning up and managed to build a couple units, including one with original middle grey metal. (edit: now gone as well.)</p>
-<p>also available again are <a href="https://monome.org/bstock.html">b-stock</a> grid and arc. for a limited time we're offering these at 20% off (compared to the normal 10% off).</p>
-<hr/>
-<p>monome &mdash; updated 07/15/26</p>
-</body>
-</html>
+<p>08/07/26</p>
+<p><img src="/image/kcain.jpg" alt="" /></p>
+<p>we have a new band member: a kinetic multicellular ceramic sound sculpture suspended in the sky.</p>
+<p>kelli and i are playing music this month celebrating the unveiling of her new collection of ceramic vessels. <em><a href="https://www.bushelcollective.org/exhibition-one-dreams-up-another-kelli-cain-anthony-chase/">one dreams up another</a></em> opens august 8 in delhi, new york. durational performances are saturday august 22 and sunday august 30 from 11am-2pm at half hidden, upstairs from <a href="https://luckdragon.space/">luck dragon</a>. free and open to everyone. perhaps a broadcast if we can manage it.</p>
+<p>still no timeline for norns. while taking a break from battling supply chains and tariffs and forecasts i scavenged the depths of the workshop and emerged with a small batch of what i'm calling b-stock norns. i can say for certain this is the last of our stock.</p>
+<p>and a reminder that if you'd like to purchase in person, we can recommend some incredible hikes and secret waterfalls and also offer a cash discount.</p>

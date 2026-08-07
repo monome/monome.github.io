@@ -93,13 +93,11 @@ $900 out of stock. estimate for next edition not yet established.
 
 <!--BLACK NEW-->
 
-<!--
-
 norns (b-stock)
-100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
-$810
+100% new and functional, with minor aesthetic defects. this small batch has the original CM3 which has less storage capacity than the updated CM3+, but it's an easy [DIY upgrade](https://monome.org/docs/norns/help/hardware/#standard-cm3-upgrade). [see details on b-stock](/bstock.html)  
+$700
 
-<!--BLACK BSTOCK-->
+<!--BLACKBSTOCK-->
 
 
 

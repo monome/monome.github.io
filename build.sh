@@ -15,9 +15,9 @@ for file in $list ; do
 done
 
 # news
-news=$(ls news -Art | tail -n 1)
-newsdate=$(date -r news/${news} +%D)
-cmark --unsafe news/${news} > news.htm_
+news=$(ls news/*.md -Art | tail -n 1)
+newsdate=$(date -r ${news} +%D)
+cmark --unsafe ${news} > news.htm_
 sed -i.raw -e '/NEWS/r news.htm_' -e 'x;$G' index.html
 
 # old news and rss
