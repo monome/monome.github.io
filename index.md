@@ -36,11 +36,11 @@ $1100
 <!-- ARCNEW -->
 
 
-arc  
+<!--arc  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $880
 
-<!-- ARCB -->
+<!-- ARC B -->
 
 
 [![](/image/both.jpg)](/image/high/both.jpg)
@@ -72,11 +72,11 @@ $800
 
 <!--ONENEW-->
 
-one (b-stock)  
+<!-- one (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $640
 
-<!--ONEBSTOCK-->
+<!--ONE BSTOCK-->
 
 
 
