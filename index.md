@@ -31,9 +31,9 @@ arc
 four knobs ringed with decoupled warm white light  
 1024 ticks per revolution, single pushbutton  
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
-$1100
+$1100 - available october 1
 
-<!-- ARCNEW -->
+<!-- ARC NEW -->
 
 
 <!--arc  
@@ -54,23 +54,24 @@ the monome _grid_ by default does nothing. connected to a computer or module, in
 zero  
 sixteen by sixteen keys with decoupled warm white light  
 usb C, 10.2" x 10.2" x 0.5", 2.8 lbs  
-$1500
+$1500 - available october 1
 
-<!--ZERONEW-->
+<!--ZERO NEW-->
 
+<!--
 zero (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
 $1200
 
-<!--ZEROBSTOCK-->
+<!--ZERO BSTOCK-->
 
 one  
 sixteen by eight keys with decoupled warm white light  
 usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
-$800
+$800 - available october 1
 
 
-<!--ONENEW-->
+<!--ONE NEW-->
 
 <!-- one (b-stock)  
 100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
