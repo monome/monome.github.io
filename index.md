@@ -1,4 +1,4 @@
-sound machines for   
+sound machines for  
 the exploration of time  
 and space
 
@@ -18,6 +18,42 @@ before ordering [please read this page](/policy.html) regarding taxes, shipping,
 
 ---
 
+[![](/image/both.jpg)](/image/high/both.jpg)
+an open, tactile instrument that allows the user to imagine and define its function.
+
+the monome _grid_ by default does nothing. connected to a computer or module, interaction is determined by the chosen application: sequencer, sample cutter, tone map, polyrhythm machine. we’ve put together studies to help you create your own.
+
+  - [video](https://hyper8.monome.org/zero/)
+  - [documentation](https://monome.org/docs/grid)
+
+zero  
+sixteen by sixteen keys with decoupled warm white light  
+usb C, 10.2" x 10.2" x 0.5", 2.8 lbs  
+$1500
+
+<!--ZERONEW-->
+
+<!--
+zero (b-stock)  
+100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
+$1200
+
+<!--ZERO BSTOCK-->
+
+one  
+sixteen by eight keys with decoupled warm white light  
+usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
+$700
+
+
+<!--ONENEW-->
+
+<!-- one (b-stock)  
+100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
+$640
+
+<!--ONE BSTOCK-->
+
 [![](/image/arc.jpg)](/image/high/arc.jpg)
 an instrument for circular interaction with light and sound. following the pattern established by the grid, each attached application determines the tactile and visual process.
 
@@ -31,9 +67,9 @@ arc
 four knobs ringed with decoupled warm white light  
 1024 ticks per revolution, single pushbutton  
 usb C, 10.2" x 2.7" x 0.9", 1.0 lbs  
-$1100 - available october 1
+$1000
 
-<!-- ARC NEW -->
+<!-- ARCNEW -->
 
 
 <!--arc  
@@ -42,42 +78,6 @@ $880
 
 <!-- ARC B -->
 
-
-[![](/image/both.jpg)](/image/high/both.jpg)
-an open, tactile instrument that allows the user to imagine and define its function.
-
-the monome _grid_ by default does nothing. connected to a computer or module, interaction is determined by the chosen application: sequencer, sample cutter, tone map, polyrhythm machine. we’ve put together studies to help you create your own.
-
-  - [video](https://hyper8.monome.org/zero/)
-  - [documentation](https://monome.org/docs/grid)
-
-zero  
-sixteen by sixteen keys with decoupled warm white light  
-usb C, 10.2" x 10.2" x 0.5", 2.8 lbs  
-$1500 - available october 1
-
-<!--ZERO NEW-->
-
-<!--
-zero (b-stock)  
-100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
-$1200
-
-<!--ZERO BSTOCK-->
-
-one  
-sixteen by eight keys with decoupled warm white light  
-usb C, 10.2" x 5.4" x 0.5", 1.6 lbs  
-$800 - available october 1
-
-
-<!--ONE NEW-->
-
-<!-- one (b-stock)  
-100% new and functional, with minor aesthetic defects. [see details on b-stock](/bstock.html)  
-$640
-
-<!--ONE BSTOCK-->
 
 
 
@@ -90,7 +90,7 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://hyper8.monome.org/norns-approaching/)
 - [documentation](https://monome.org/docs/norns)
 
-$900 out of stock. estimate for next edition not yet established.
+$900 -- out of stock, estimate for next edition not yet established
 
 <!--BLACK NEW-->
 
