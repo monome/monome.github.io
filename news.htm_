@@ -1,6 +1,4 @@
-<p>10/01/26</p>
-<p>ok we're back. shipping has resumed.</p>
-<p>we've also adjusted some prices as some manufacturing pressures have eased (which it a pretty unexpected sentence to read.)</p>
-<p>grid one is now $700.<br />
-arc is now $1000.</p>
-<p>of course situations might change. grid zero is a short run and we still have a small number remaining. still no update on norns, which is more complicated than we'd like.</p>
+<p>10/30/26</p>
+<iframe allow="fullscreen" loading="lazy" src="https://hyper8.monome.org/fliiin-ws/embed/" style="aspect-ratio: 1.7777778; border: none; width: 100%;"> </iframe>
+<p>flin is a cyclic music box where notes sound on set intervals and various patterns unfold. @evnoj created a <a href="https://codeberg.org/evnoj/fliiin/src/branch/dev">version for iii</a> which runs on the grid itself, shown here sending midi notes to the workshop system. flin is <a href="https://hyper8.monome.org/monome-40h-app-demo-2">decades old</a>, the original made with max/msp is still around.</p>
+<p>norns is ending and also returning: various situations and considerations led to a 100% hardware redesign. we're still in proving territory so details will be slowly forthcoming. estimated timeframe is early next year.</p>

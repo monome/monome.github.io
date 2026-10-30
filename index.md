@@ -90,7 +90,7 @@ _norns_ is many sound instruments. it connects to grids, MIDI and other objects.
 - [video](https://hyper8.monome.org/norns-approaching/)
 - [documentation](https://monome.org/docs/norns)
 
-$900 -- out of stock, estimate for next edition not yet established
+$900 -- out of stock, estimated return early 2027
 
 <!--BLACK NEW-->
 
