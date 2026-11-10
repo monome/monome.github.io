@@ -1,6 +1,6 @@
 #!/bin/bash
 
-list=$(ls ./*.md; ls ./news/*.md)
+list=$(ls ./*.md; ls ./news/*.md; ls ./past/*.md;)
 for file in $list ; do
   date=$(date -r ${file} +%D)
   file=${file:2}

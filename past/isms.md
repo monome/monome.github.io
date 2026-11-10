@@ -4,7 +4,7 @@ isms
 
 _an extensible electronic instrument and composition system encompassing generalized practices and inter-ideological patterns_
 
-a collaboration with [mannequins](https://whimsicalraps.com)
+a collaboration with [whimsical raps](https://whimsicalraps.com)
 
 [documentation](https://monome.org/docs/isms)
 

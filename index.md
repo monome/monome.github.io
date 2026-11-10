@@ -14,17 +14,18 @@ and space
 
 ---
 
-before ordering [please read this page](/policy.html) regarding taxes, shipping, and returns. note that all orders outside the US will have import taxes prepaid.
+<br/>before ordering [please read this page](/policy.html) regarding taxes, shipping, and returns. note that all orders outside the US will have import taxes prepaid.
 
 ---
 
 [![](/image/both.jpg)](/image/high/both.jpg)
-an open, tactile instrument that allows the user to imagine and define its function.
+an open, tactile instrument that asks to be reimagined and redefined.
 
 the monome _grid_ by default does nothing. connected to a computer or module, interaction is determined by the chosen application: sequencer, sample cutter, tone map, polyrhythm machine. we’ve put together studies to help you create your own.
 
-  - [video](https://hyper8.monome.org/zero/)
-  - [documentation](https://monome.org/docs/grid)
+<br/><iframe allow="fullscreen" loading="lazy" src="https://hyper8.monome.org/mp-ws/embed/" style="aspect-ratio: 1.7777778; border: none; width: 100%;"></iframe>
+
+see [more video](https://hyper8.monome.org) and the [full documentation](https://monome.org/docs/grid)
 
 zero  
 sixteen by sixteen keys with decoupled warm white light  
@@ -57,11 +58,9 @@ $640
 [![](/image/arc.jpg)](/image/high/arc.jpg)
 an instrument for circular interaction with light and sound. following the pattern established by the grid, each attached application determines the tactile and visual process.
 
-  - [documentation](https://monome.org/docs/arc)
-  - [video (snows)](https://hyper8.monome.org/arc-snows/)  
-  - [vidoo (erosion)](https://hyper8.monome.org/erosion/)
-  - [video (cycles)](https://hyper8.monome.org/arc-iii-cycles/)
+<br/><iframe allow="fullscreen" loading="lazy" src="https://hyper8.monome.org/erosion/embed/" style="aspect-ratio: 1.7777778; border: none; width: 100%;"></iframe>
 
+see [more video](https://hyper8.monome.org) and the [full documentation](https://monome.org/docs/arc)
 
 arc  
 four knobs ringed with decoupled warm white light  
@@ -87,8 +86,7 @@ changes. travels. is open to possibilities.
 
 _norns_ is many sound instruments. it connects to grids, MIDI and other objects. norns lets you define its behavior with scripts and DSP. we've created extensive studies to help actualize new instruments yet to be imagined.
 
-- [video](https://hyper8.monome.org/norns-approaching/)
-- [documentation](https://monome.org/docs/norns)
+see [video](https://hyper8.monome.org/norns-approaching/) and [documentation](https://monome.org/docs/norns)
 
 $900 -- out of stock, estimated return early 2027
 
@@ -100,18 +98,6 @@ $700
 
 <!--BLACK BSTOCK-->
 
-
-
-![](/image/crow.jpg)
-
-speaks and listens and remembers bits of text. a scriptable usb-cv-ii machine.
-
-_crow_ connects to norns and computers running max, max for live, and other serial-enabled applications. we've created various norns scripts and max for live devices which require no programming, and we've also created tutorials and studies to get you started quickly programming your own ideas into this tiny, powerful module.
-
-- [video](https://hyper8.monome.org/approaching-crow/)
-- [documentation](https://monome.org/docs/crow)
-
-as of october 2025 crow is discontinued. while we've schemed with whimsical raps about future evolutions, there is no timeline.
 
 
 ---

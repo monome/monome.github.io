@@ -1,4 +1,4 @@
-[arc](/past/arc.html) - light-encircled high resolution encoders.
+[crow](/past/crow.html) - speaks and listens and remembers bits of text. a scriptable usb-cv-ii machine.
 
 [teletype](/past/teletype.html) - algorithmic ecosystem for modular synths.
 
